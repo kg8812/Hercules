@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 60cbaa2c5ba42ac4c891d333d432d3c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7684440710946210076
+    second: purple demon_0
+  - first:
+      213: -5547021745696889283
+    second: purple demon_1
+  - first:
+      213: -1426976563663941771
+    second: purple demon_2
+  - first:
+      213: 4542093601280280905
+    second: purple demon_3
+  - first:
+      213: -6088015550595385035
+    second: purple demon_4
+  - first:
+      213: 44436271764438959
+    second: purple demon_5
+  - first:
+      213: 6664033687718357546
+    second: purple demon_6
+  - first:
+      213: -1143071708078706201
+    second: purple demon_7
+  - first:
+      213: 4697310088888563907
+    second: purple demon_8
+  - first:
+      213: 8605353110379505643
+    second: purple demon_9
+  - first:
+      213: -3393291617646354926
+    second: purple demon_10
+  - first:
+      213: 3203101077736191995
+    second: purple demon_11
+  - first:
+      213: -7925046898827500053
+    second: purple demon_12
+  - first:
+      213: 537731485866628250
+    second: purple demon_13
+  - first:
+      213: -2110666566626789850
+    second: purple demon_14
+  - first:
+      213: 7379035932869771910
+    second: purple demon_15
+  - first:
+      213: -2377507299375786552
+    second: purple demon_16
+  - first:
+      213: -4568155049801239908
+    second: purple demon_17
+  - first:
+      213: 8684998602182374931
+    second: purple demon_18
+  - first:
+      213: -7070231888783665325
+    second: purple demon_19
+  - first:
+      213: 7064612239147445208
+    second: purple demon_20
+  - first:
+      213: -8283250855219154164
+    second: purple demon_21
+  - first:
+      213: -7198033776442047996
+    second: purple demon_22
+  - first:
+      213: -6685048720805341778
+    second: purple demon_23
+  - first:
+      213: -95210678757427271
+    second: purple demon_24
+  - first:
+      213: -7203338805308340346
+    second: purple demon_25
+  - first:
+      213: -6951507680575018247
+    second: purple demon_26
+  - first:
+      213: -2327133702973772518
+    second: purple demon_27
+  - first:
+      213: 7657151807661472123
+    second: purple demon_28
+  - first:
+      213: -1668565370454324308
+    second: purple demon_29
+  - first:
+      213: 705782468067875560
+    second: purple demon_30
+  - first:
+      213: 8159971217213918959
+    second: purple demon_31
+  - first:
+      213: -8093531705252315676
+    second: purple demon_32
+  - first:
+      213: 818856182824154837
+    second: purple demon_33
+  - first:
+      213: 8370102104981007726
+    second: purple demon_34
+  - first:
+      213: 3435029809601479987
+    second: purple demon_35
+  - first:
+      213: 904485328605250148
+    second: purple demon_36
+  - first:
+      213: -8991038917498553635
+    second: purple demon_37
+  - first:
+      213: 1785208203719404601
+    second: purple demon_38
+  - first:
+      213: 1898082566814086840
+    second: purple demon_39
+  - first:
+      213: 892196040967319002
+    second: purple demon_40
+  - first:
+      213: -8863113165685674531
+    second: purple demon_41
+  - first:
+      213: -2241655240568815018
+    second: purple demon_42
+  - first:
+      213: 935149351939696843
+    second: purple demon_43
+  - first:
+      213: 6164068128717126167
+    second: purple demon_44
+  - first:
+      213: 6271313610654286325
+    second: purple demon_45
+  - first:
+      213: 2335316464598502687
+    second: purple demon_46
+  - first:
+      213: 1566030177717893854
+    second: purple demon_47
+  - first:
+      213: 4955948551767132149
+    second: purple demon_48
+  - first:
+      213: -4090458428195368122
+    second: purple demon_49
+  - first:
+      213: 1264449515179808929
+    second: purple demon_50
+  - first:
+      213: 5479795389209171712
+    second: purple demon_51
+  - first:
+      213: -6583883051942422743
+    second: purple demon_52
+  - first:
+      213: 4993754125481059981
+    second: purple demon_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple demon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11cf79dc1e94aa60800000000000000
+      internalID: 7684440710946210076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 642
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ae569c150503b0800000000000000
+      internalID: -5547021745696889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc004306c523ce0800000000000000
+      internalID: -1426976563663941771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c2e8b012c80f30800000000000000
+      internalID: 4542093601280280905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53935b7cc16038ba0800000000000000
+      internalID: -6088015550595385035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf79a1cd8edd9000800000000000000
+      internalID: 44436271764438959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a60b7d4576b7c50800000000000000
+      internalID: 6664033687718357546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17b27765ef220f0800000000000000
+      internalID: -1143071708078706201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 641
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8bf0073a2303140800000000000000
+      internalID: 4697310088888563907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be729fe8f0b5c6770800000000000000
+      internalID: 8605353110379505643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed0ee804b98e0d0800000000000000
+      internalID: -3393291617646354926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f22e9573b37c20800000000000000
+      internalID: 3203101077736191995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5631f85d3940290800000000000000
+      internalID: -7925046898827500053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949f97ffe7667700800000000000000
+      internalID: 537731485866628250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626bae0c0f765b2e0800000000000000
+      internalID: -2110666566626789850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682cb8bc51a976660800000000000000
+      internalID: 7379035932869771910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_16
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5dec135b5610fd0800000000000000
+      internalID: -2377507299375786552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b0b17f27aa90c0800000000000000
+      internalID: -4568155049801239908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31638dda630578870800000000000000
+      internalID: 8684998602182374931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357196d8e8d71ed90800000000000000
+      internalID: -7070231888783665325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba24ec66b8a0260800000000000000
+      internalID: 7064612239147445208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 386
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033635db3bfb0d80800000000000000
+      internalID: -8283250855219154164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40288e9ca627b1c90800000000000000
+      internalID: -7198033776442047996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 386
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d73a7b9fe933a0800000000000000
+      internalID: -6685048720805341778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f6d1646ebdaef0800000000000000
+      internalID: -95210678757427271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6874fc08589980c90800000000000000
+      internalID: -7203338805308340346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2ded5898478f90800000000000000
+      internalID: -6951507680575018247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da8611a3c54bfd0800000000000000
+      internalID: -2327133702973772518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f6eeeffaa34a60800000000000000
+      internalID: 7657151807661472123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4d81d2a018d8e0800000000000000
+      internalID: -1668565370454324308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea52e15a617bc900800000000000000
+      internalID: 705782468067875560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8273b69a0e3170800000000000000
+      internalID: 8159971217213918959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf212abcffdaf80800000000000000
+      internalID: -8093531705252315676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6bd5b1c592d5b00800000000000000
+      internalID: 818856182824154837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d642d8483982470800000000000000
+      internalID: 8370102104981007726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358c2a896dabaf20800000000000000
+      internalID: 3435029809601479987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462811c3d906d8c00800000000000000
+      internalID: 904485328605250148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda39c8bdb9693380800000000000000
+      internalID: -8991038917498553635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ceec0276556c810800000000000000
+      internalID: 1785208203719404601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b05db908575a10800000000000000
+      internalID: 1898082566814086840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addeddb7297b16c00800000000000000
+      internalID: 892196040967319002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddda73bd885eff480800000000000000
+      internalID: -8863113165685674531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c00d7f6a04e0e0800000000000000
+      internalID: -2241655240568815018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86d4681615afc00800000000000000
+      internalID: 935149351939696843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71abd7fed4b2b8550800000000000000
+      internalID: 6164068128717126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10f16808e280750800000000000000
+      internalID: 6271313610654286325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc38693f5b86020800000000000000
+      internalID: 2335316464598502687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaba624628abb510800000000000000
+      internalID: 1566030177717893854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7013933f017c440800000000000000
+      internalID: 4955948551767132149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64399e25bb5cb37c0800000000000000
+      internalID: -4090458428195368122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a815bc722a3c8110800000000000000
+      internalID: 1264449515179808929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d2af8fd42c0c40800000000000000
+      internalID: 5479795389209171712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d1464f3951a4a0800000000000000
+      internalID: -6583883051942422743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple demon_53
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a0f84be06d4540800000000000000
+      internalID: 4993754125481059981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 50d6478a641c1b3428378f02a715d4be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

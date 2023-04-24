@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 0c3c0d3412e298643be08ce6c92c54a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2259669609770910996
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_0
+  - first:
+      213: -3303317547832086600
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_1
+  - first:
+      213: 632429422004599501
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_2
+  - first:
+      213: 4550377981028604299
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_3
+  - first:
+      213: 555408163297561526
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_4
+  - first:
+      213: -7309912397379715328
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_6
+  - first:
+      213: -8594215336295236648
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_7
+  - first:
+      213: 8127963911209172878
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_9
+  - first:
+      213: -8407646710170728130
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_10
+  - first:
+      213: -1515238039271535388
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_12
+  - first:
+      213: -3257361211813656317
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_13
+  - first:
+      213: -1767303330340571674
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_14
+  - first:
+      213: -102183579646534242
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_15
+  - first:
+      213: 1582489873733069063
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_16
+  - first:
+      213: -8616340195949948405
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_17
+  - first:
+      213: 8629521763123048384
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_19
+  - first:
+      213: -8060467373120850518
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_20
+  - first:
+      213: -6145924083655590360
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_21
+  - first:
+      213: -185987455528845953
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_22
+  - first:
+      213: -5241529424537641797
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_23
+  - first:
+      213: 3965979495752006205
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_24
+  - first:
+      213: 8712469378845320577
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_25
+  - first:
+      213: -774565031713443805
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_26
+  - first:
+      213: 5010196446263183638
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_27
+  - first:
+      213: -8659150814325159049
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_5
+  - first:
+      213: 7747568712171461006
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_8
+  - first:
+      213: -1409835302633624143
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_11
+  - first:
+      213: -3373868555960991762
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_28
+  - first:
+      213: -7822162355209351412
+    second: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafbdf467a04a0e0800000000000000
+      internalID: -2259669609770910996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 356
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf672521324822d0800000000000000
+      internalID: -3303317547832086600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 353
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf6146537d6c800800000000000000
+      internalID: 632429422004599501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 358
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8918f03aa0362f30800000000000000
+      internalID: 4550377981028604299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb04b628c435b700800000000000000
+      internalID: 555408163297561526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 294
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f35f67769fd8a90800000000000000
+      internalID: -7309912397379715328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db78ec8fa63bb880800000000000000
+      internalID: -8594215336295236648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 297
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f31da0d145cc070800000000000000
+      internalID: 8127963911209172878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ca4bdcd9025b80800000000000000
+      internalID: -8407646710170728130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 162
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8f07080bc8fae0800000000000000
+      internalID: -1515238039271535388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 162
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30906b07c378bc2d0800000000000000
+      internalID: -3257361211813656317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 235
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57fa01cf64977e0800000000000000
+      internalID: -1767303330340571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 161
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d5a416398f49ef0800000000000000
+      internalID: -102183579646534242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092380e72226f510800000000000000
+      internalID: 1582489873733069063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02db7c3e3c9c6880800000000000000
+      internalID: -8616340195949948405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa378825832c770800000000000000
+      internalID: 8629521763123048384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4d97663484d780800000000000000
+      internalID: -8659150814325159049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 235
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8919e102b4e48b60800000000000000
+      internalID: 7747568712171461006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda7ba03424f6ce0800000000000000
+      internalID: -1409835302633624143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 162
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb5138c6c9d21d0800000000000000
+      internalID: -3373868555960991762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Keroro_RPG_Kishi_to_Musha_to_Densetsu_no_Kaizoku_-_Enemy_07__1_-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 161
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f405218c8127390800000000000000
+      internalID: -7822162355209351412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be66a919b43149143bc2e1bae1e42aad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

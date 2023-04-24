@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: f62c641e76740b64f917b6cca69d441a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1224384326437599908
+    second: Lion_0
+  - first:
+      213: 1731740487818298547
+    second: Lion_1
+  - first:
+      213: -1341699111379921251
+    second: Lion_2
+  - first:
+      213: -4331280993586816951
+    second: Lion_3
+  - first:
+      213: -6126171613083159431
+    second: Lion_4
+  - first:
+      213: 3075894662631533492
+    second: Lion_5
+  - first:
+      213: -6631980412950786725
+    second: Lion_6
+  - first:
+      213: 7637034836877232567
+    second: Lion_7
+  - first:
+      213: -2506398138167502584
+    second: Lion_8
+  - first:
+      213: -6285599949630077010
+    second: Lion_9
+  - first:
+      213: 900864444387492903
+    second: Lion_10
+  - first:
+      213: -4848305508191306653
+    second: Lion_11
+  - first:
+      213: -7569098589899524330
+    second: Lion_12
+  - first:
+      213: 2181809233299497846
+    second: Lion_13
+  - first:
+      213: 7479773171619057994
+    second: Lion_14
+  - first:
+      213: 1655008148082069265
+    second: Lion_15
+  - first:
+      213: 7070115788255192177
+    second: Lion_16
+  - first:
+      213: 6364874997085531624
+    second: Lion_17
+  - first:
+      213: -4496436773746458385
+    second: Lion_18
+  - first:
+      213: -2735857162043879775
+    second: Lion_19
+  - first:
+      213: -6986929648274956107
+    second: Lion_20
+  - first:
+      213: 693689714272890484
+    second: Lion_21
+  - first:
+      213: 7469527175899121396
+    second: Lion_22
+  - first:
+      213: 8043564896847938550
+    second: Lion_23
+  - first:
+      213: -9151528973996871355
+    second: Lion_24
+  - first:
+      213: -2421251053346228316
+    second: Lion_25
+  - first:
+      213: -759681902755667889
+    second: Lion_26
+  - first:
+      213: 1445409502132960916
+    second: Lion_27
+  - first:
+      213: 6600232568869843004
+    second: Lion_28
+  - first:
+      213: 8518218734874119296
+    second: Lion_29
+  - first:
+      213: 2109226936999788470
+    second: Lion_30
+  - first:
+      213: -8777700437352982871
+    second: Lion_31
+  - first:
+      213: 7308817981633558682
+    second: Lion_32
+  - first:
+      213: -2550742540903496865
+    second: Lion_33
+  - first:
+      213: 4491833202172741748
+    second: Lion_34
+  - first:
+      213: 6047241102149260008
+    second: Lion_35
+  - first:
+      213: -3390674315900406092
+    second: Lion_36
+  - first:
+      213: 7187745741231757996
+    second: Lion_37
+  - first:
+      213: -1393823870263531064
+    second: Lion_38
+  - first:
+      213: 4622407803660848701
+    second: Lion_39
+  - first:
+      213: 1023652323071466632
+    second: Lion_40
+  - first:
+      213: -728867930163232886
+    second: Lion_41
+  - first:
+      213: 5540065944091530687
+    second: Lion_42
+  - first:
+      213: -7529052813692986383
+    second: Lion_43
+  - first:
+      213: -7428822742014334350
+    second: Lion_44
+  - first:
+      213: -5619872835783581479
+    second: Lion_45
+  - first:
+      213: -6410429559738025916
+    second: Lion_45
+  - first:
+      213: 1051698462796402095
+    second: Lion_46
+  - first:
+      213: -1073004414177199222
+    second: Lion_47
+  - first:
+      213: -6754284963251707107
+    second: Lion_48
+  - first:
+      213: -3197415232980977576
+    second: Lion_49
+  - first:
+      213: 1057455208426232229
+    second: Lion_50
+  - first:
+      213: -5784248916485751674
+    second: Lion_51
+  - first:
+      213: 2827271108653225080
+    second: Lion_52
+  - first:
+      213: 2863315579524040090
+    second: Lion_53
+  - first:
+      213: 4098342946783344104
+    second: Lion_54
+  - first:
+      213: 4694582725228748151
+    second: Lion_55
+  - first:
+      213: -5837843797318857500
+    second: Lion_56
+  - first:
+      213: 8605384312196257811
+    second: Lion_57
+  - first:
+      213: -3502560732129932246
+    second: Lion_58
+  - first:
+      213: 8652881762553920823
+    second: Lion_59
+  - first:
+      213: 5844091230287261174
+    second: Lion_60
+  - first:
+      213: -8346064575648565253
+    second: Lion_61
+  - first:
+      213: -3147689533981872979
+    second: Lion_62
+  - first:
+      213: 4543599662029012155
+    second: Lion_63
+  - first:
+      213: -2560817101033440301
+    second: Lion_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lion_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 422
+        width: 58
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55812231fc120fe0800000000000000
+      internalID: -1224384326437599908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 422
+        width: 58
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4429b6cc0680810800000000000000
+      internalID: 1731740487818298547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 422
+        width: 59
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961ebe44c3516de0800000000000000
+      internalID: -1341699111379921251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 422
+        width: 60
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485bda62e234e3c0800000000000000
+      internalID: -4331280993586816951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 422
+        width: 63
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b81130677bfaa0800000000000000
+      internalID: -6126171613083159431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 422
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2cac16e5cfaa20800000000000000
+      internalID: 3075894662631533492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 422
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d48b0c3f876f3a0800000000000000
+      internalID: -6631980412950786725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 421
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c95da8b23cf960800000000000000
+      internalID: 7637034836877232567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 421
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80953dc3c2c773dd0800000000000000
+      internalID: -2506398138167502584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 421
+        width: 59
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7061af52015c8a0800000000000000
+      internalID: -6285599949630077010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 421
+        width: 60
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240f7e6073808c00800000000000000
+      internalID: 900864444387492903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 421
+        width: 63
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cffa5e3db57bcb0800000000000000
+      internalID: -4848305508191306653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 422
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f02f6fe825f690800000000000000
+      internalID: -7569098589899524330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 422
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673eb7e10f7574e10800000000000000
+      internalID: 2181809233299497846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 341
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d9dee11e7dc760800000000000000
+      internalID: 7479773171619057994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 341
+        width: 60
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f0fce5425c7f610800000000000000
+      internalID: 1655008148082069265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 341
+        width: 62
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e4dfa9d81e1260800000000000000
+      internalID: 7070115788255192177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 341
+        width: 63
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6c095614945850800000000000000
+      internalID: 6364874997085531624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 341
+        width: 66
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c6d1d3927991c0800000000000000
+      internalID: -4496436773746458385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 340
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae8a240868480ad0800000000000000
+      internalID: -2735857162043879775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 341
+        width: 68
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02de3d080790f90800000000000000
+      internalID: -6986929648274956107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_21
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 341
+        width: 68
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee39bae1b70a900800000000000000
+      internalID: 693689714272890484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 341
+        width: 69
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60897246719a760800000000000000
+      internalID: 7469527175899121396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 341
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34c6438ab70af60800000000000000
+      internalID: 8043564896847938550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_24
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 341
+        width: 63
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b83192ec3ff080800000000000000
+      internalID: -9151528973996871355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_25
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 341
+        width: 59
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f14dcefcf56ed0800000000000000
+      internalID: -2421251053346228316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_26
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 341
+        width: 59
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a4fb95511575f0800000000000000
+      internalID: -759681902755667889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 340
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efb99b8402f0410800000000000000
+      internalID: 1445409502132960916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 59
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3073764d8cb89b50800000000000000
+      internalID: 6600232568869843004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 261
+        width: 57
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ccf33decac63670800000000000000
+      internalID: 8518218734874119296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 262
+        width: 56
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbe8a59ba754d10800000000000000
+      internalID: 2109226936999788470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 264
+        width: 60
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d8ce55f75f2680800000000000000
+      internalID: -8777700437352982871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 262
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9871430b332e6560800000000000000
+      internalID: 7308817981633558682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 260
+        width: 64
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5348f76c21f99cd0800000000000000
+      internalID: -2550742540903496865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 260
+        width: 64
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478cfc5af72365e30800000000000000
+      internalID: 4491833202172741748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 260
+        width: 63
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e29fb42ebd1ce350800000000000000
+      internalID: 6047241102149260008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 177
+        width: 60
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b637bb9ca7e1f0d0800000000000000
+      internalID: -3390674315900406092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 180
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa12f95ba000c360800000000000000
+      internalID: 7187745741231757996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 180
+        width: 59
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c96b75239428ace0800000000000000
+      internalID: -1393823870263531064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 180
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec2382867162040800000000000000
+      internalID: 4622407803660848701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 171
+        width: 65
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47575778, y: 0.14424573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9d224d5eb43e00800000000000000
+      internalID: 1023652323071466632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 173
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.49381414, y: 0.13908754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f327eaa7a82e5f0800000000000000
+      internalID: -728867930163232886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 164
+        width: 73
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45478132, y: 0.2111655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb590d5af9442ec40800000000000000
+      internalID: 5540065944091530687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 166
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4700004, y: 0.22852889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9ca84b5e638790800000000000000
+      internalID: -7529052813692986383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_44
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 171
+        width: 68
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19345802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a64e2631587e890800000000000000
+      internalID: -7428822742014334350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_45
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 179
+        width: 61
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b62287449907a0800000000000000
+      internalID: -6410429559738025916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 61
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcdc50e22689e00800000000000000
+      internalID: 1051698462796402095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bba8a9b2ceb11f0800000000000000
+      internalID: -1073004414177199222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 97
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ae959c95f342a0800000000000000
+      internalID: -6754284963251707107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 61
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858feb649cf70a3d0800000000000000
+      internalID: -3197415232980977576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 65
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d120d8e5dcae00800000000000000
+      internalID: 1057455208426232229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 64
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbd68b1483abfa0800000000000000
+      internalID: -5784248916485751674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 65
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741003081c7c3720800000000000000
+      internalID: 2827271108653225080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 65
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954f5d595a8cb720800000000000000
+      internalID: 2863315579524040090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 17
+        width: 66
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5bfb6323d30e830800000000000000
+      internalID: 4098342946783344104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_55
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 17
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd1f99d12862140800000000000000
+      internalID: 4694582725228748151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_56
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 17
+        width: 66
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec879e1fffcbfea0800000000000000
+      internalID: -5837843797318857500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_57
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 17
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185d2c40777c6770800000000000000
+      internalID: 8605384312196257811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_58
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 17
+        width: 66
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc92d4297646fc0800000000000000
+      internalID: -3502560732129932246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 17
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d7b7c3e16351870800000000000000
+      internalID: 8652881762553920823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 17
+        width: 66
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6f38b2026a1150800000000000000
+      internalID: 5844091230287261174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_61
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 17
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7feffdc72dc2c80800000000000000
+      internalID: -8346064575648565253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_62
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 17
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacabc7cb092154d0800000000000000
+      internalID: -3147689533981872979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_63
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 14
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50219136, y: 0.041227255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf2d0d1db1e0f30800000000000000
+      internalID: 4543599662029012155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lion_64
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 13
+        width: 59
+        height: 35
+      alignment: 9
+      pivot: {x: 0.50268346, y: 0.13565646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf7261a66267cd0800000000000000
+      internalID: -2560817101033440301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c43fdfcdf8bbd3247a4ab2ffd56adee7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

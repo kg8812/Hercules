@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 61971b5602853db4a9cd762f81d28ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8269564570965543656
+    second: ceberus_19
+  - first:
+      213: -8949197467965131784
+    second: ceberus_22
+  - first:
+      213: 5971397486421228998
+    second: ceberus_23
+  - first:
+      213: -8784913732614790299
+    second: ceberus_24
+  - first:
+      213: -1173511895983601093
+    second: ceberus_25
+  - first:
+      213: -6061980468500322485
+    second: ceberus_26
+  - first:
+      213: -3692335539432378007
+    second: ceberus_27
+  - first:
+      213: -7158754161653406546
+    second: ceberus_28
+  - first:
+      213: -2245081832898075238
+    second: ceberus_29
+  - first:
+      213: 9165614421682794694
+    second: ceberus_30
+  - first:
+      213: 3360770958761805374
+    second: ceberus_31
+  - first:
+      213: -1445833519827183854
+    second: ceberus_32
+  - first:
+      213: -2518676577791625055
+    second: ceberus_33
+  - first:
+      213: -4152058584475520684
+    second: ceberus_34
+  - first:
+      213: -646804726745735907
+    second: ceberus_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ceberus_19
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 243
+        width: 116
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815717436da9c3d80800000000000000
+      internalID: -8269564570965543656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 119
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3fc1951501ec380800000000000000
+      internalID: -8949197467965131784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 119
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49282297, y: 0.015131725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3cc6406aaed250800000000000000
+      internalID: 5971397486421228998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 240
+        width: 120
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636b013187b51680800000000000000
+      internalID: -8784913732614790299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 125
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac33ce529d6bfe0800000000000000
+      internalID: -1173511895983601093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 240
+        width: 118
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4797058, y: -0.00022472035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47aea3b1e48fdba0800000000000000
+      internalID: -6061980468500322485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 241
+        width: 118
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48149392, y: -0.0101988055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613594c36032ccc0800000000000000
+      internalID: -3692335539432378007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 241
+        width: 119
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48384005, y: -0.0061102975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ac48c40ff6ac90800000000000000
+      internalID: -7158754161653406546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_29
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 238
+        width: 108
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a956d6ac7fdd7d0e0800000000000000
+      internalID: -2245081832898075238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_30
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 238
+        width: 107
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b99841cdc23f70800000000000000
+      internalID: 9165614421682794694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_31
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 240
+        width: 125
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364270816bd3ae20800000000000000
+      internalID: 3360770958761805374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_32
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 243
+        width: 131
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2171956f21e5febe0800000000000000
+      internalID: -1445833519827183854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_33
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 243
+        width: 125
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a832ac3ffcdb0dd0800000000000000
+      internalID: -2518676577791625055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_34
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 244
+        width: 128
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b9b947bce066c0800000000000000
+      internalID: -4152058584475520684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceberus_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 120
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd64727861607f0800000000000000
+      internalID: -646804726745735907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 745b0e31a5208a44d8676330f8f80e91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

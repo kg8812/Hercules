@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7684753985159590997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3115638109510564055}
+  - component: {fileID: 3004309856597027930}
+  m_Layer: 0
+  m_Name: Skill Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3115638109510564055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7684753985159590997}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3004309856597027930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7684753985159590997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f74c92f9560c9b94d910300654a675f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aresSkill:
+  - {fileID: 11400000, guid: 9f2e6c0648d05af40921815adad7da31, type: 2}
+  - {fileID: 11400000, guid: d54e8c7d9fb5c4848925428e63a4b9e4, type: 2}
+  - {fileID: 11400000, guid: d3ac25acd1c2986468c2e7eaf175e63d, type: 2}
+  zeusSkill:
+  - {fileID: 11400000, guid: f45e728e858f7ed42b649bb2913db08c, type: 2}
+  - {fileID: 11400000, guid: b868586b36dbc2d4b95dfb4c003d9d78, type: 2}
+  - {fileID: 11400000, guid: 5ea5abbf6cff95e4b8d43b775d81c35e, type: 2}
+  hadesSkill:
+  - {fileID: 11400000, guid: dedc1c9057f89f7439408a8e5130b7cb, type: 2}
+  - {fileID: 11400000, guid: cfe9f2b70a04d634095c348b4a341236, type: 2}
+  - {fileID: 11400000, guid: 0ab4f70dfca053741aaf774680a53797, type: 2}
+  hermesSkill:
+  - {fileID: 11400000, guid: e4e2713e81418154983f3fe736b45c3a, type: 2}
+  lionRoar: {fileID: 11400000, guid: d281dcd937742ee438922557d63af27b, type: 2}
+  dragonBreath: {fileID: 11400000, guid: 78432f31d8e35e147b681001a2c03b1e, type: 2}

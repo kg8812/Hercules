@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9125480343182783315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9125480343182783313}
+  - component: {fileID: -1557505823759245686}
+  m_Layer: 12
+  m_Name: StageManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9125480343182783313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9125480343182783315}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -17.8, y: -6.9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-1557505823759245686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9125480343182783315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70a217443ea1be142b81c8bdbbb55c19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stage: 0
+  player: {fileID: 0}
+  texture: {fileID: 0}
+  miniTexture:
+  - {fileID: 8400000, guid: 4d561d3d698e52b429740f8c24ddd50f, type: 2}
+  - {fileID: 8400000, guid: 254133d1a3cb9a04ea65debdb3431231, type: 2}
+  - {fileID: 8400000, guid: aabcf0d504cb1f34a981bca5da858ca9, type: 2}
+  - {fileID: 8400000, guid: ae05ac34c0f76e74a8d1eba926259eb0, type: 2}

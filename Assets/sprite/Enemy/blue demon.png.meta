@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 3a2dfa6c69a86b740973d4a7a671527c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9157105967340769919
+    second: blue demon_cut
+  - first:
+      213: 7872783944933664675
+    second: blue demon_1
+  - first:
+      213: -5604248471748518469
+    second: blue demon_2
+  - first:
+      213: -8377836461156423045
+    second: blue demon_3
+  - first:
+      213: -7363305613508662535
+    second: blue demon_4
+  - first:
+      213: -5811275314371945070
+    second: blue demon_5
+  - first:
+      213: 7826695076747194678
+    second: blue demon_6
+  - first:
+      213: -872798627088107991
+    second: blue demon_7
+  - first:
+      213: -1176533739558337403
+    second: blue demon_8
+  - first:
+      213: -1924707441273123414
+    second: blue demon_9
+  - first:
+      213: 4802396445835337802
+    second: blue demon_10
+  - first:
+      213: 6058630424287254741
+    second: blue demon_11
+  - first:
+      213: -3613916118525446853
+    second: blue demon_12
+  - first:
+      213: 8495142015674213484
+    second: blue demon_13
+  - first:
+      213: 4345255346612976781
+    second: blue demon_14
+  - first:
+      213: 8119158383366472549
+    second: blue demon_15
+  - first:
+      213: -2489044896739971682
+    second: blue demon_16
+  - first:
+      213: -6489397801594345770
+    second: blue demon_17
+  - first:
+      213: 4091651704735703681
+    second: blue demon_18
+  - first:
+      213: -9147883915671233556
+    second: blue demon_19
+  - first:
+      213: 2035518486956731630
+    second: blue demon_20
+  - first:
+      213: 6213352072821135566
+    second: blue demon_21
+  - first:
+      213: 2909234012460138348
+    second: blue demon_22
+  - first:
+      213: 2500254485037111315
+    second: blue demon_23
+  - first:
+      213: -7194858018511815551
+    second: blue demon_24
+  - first:
+      213: 2627145291785856137
+    second: blue demon_25
+  - first:
+      213: -6801296253890330640
+    second: blue demon_26
+  - first:
+      213: -4263790522822378610
+    second: blue demon_27
+  - first:
+      213: 3622502464274036255
+    second: blue demon_28
+  - first:
+      213: -8874721996054210385
+    second: blue demon_29
+  - first:
+      213: 4496749645859713153
+    second: blue demon_30
+  - first:
+      213: -3782349376647920948
+    second: blue demon_31
+  - first:
+      213: -7469533672981552990
+    second: blue demon_32
+  - first:
+      213: -9103605614072172529
+    second: blue demon_33
+  - first:
+      213: 4662981340047562464
+    second: blue demon_34
+  - first:
+      213: 9144271420668512307
+    second: blue demon_35
+  - first:
+      213: -7299869056505512996
+    second: blue demon_36
+  - first:
+      213: -2329312981710199498
+    second: blue demon_37
+  - first:
+      213: -9050381584546382664
+    second: blue demon_38
+  - first:
+      213: -1891834474876815053
+    second: blue demon_39
+  - first:
+      213: -6945513950194357323
+    second: blue demon_40
+  - first:
+      213: 252021391092878345
+    second: blue demon_41
+  - first:
+      213: -6723031070522019558
+    second: blue demon_42
+  - first:
+      213: 32765109546053202
+    second: blue demon_43
+  - first:
+      213: -4324948174998206171
+    second: blue demon_44
+  - first:
+      213: 2057632089490080397
+    second: blue demon_45
+  - first:
+      213: 5920772515478196458
+    second: blue demon_46
+  - first:
+      213: -925189730270190035
+    second: blue demon_47
+  - first:
+      213: -337654121613383193
+    second: blue demon_48
+  - first:
+      213: -7815958300177403634
+    second: blue demon_49
+  - first:
+      213: -7888529361228085342
+    second: blue demon_50
+  - first:
+      213: 6333147849289718000
+    second: blue demon_51
+  - first:
+      213: -7227897086767087653
+    second: blue demon_52
+  - first:
+      213: -3432843109676815326
+    second: blue demon_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue demon_cut
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 648
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d4f16c53941f70800000000000000
+      internalID: 9157105967340769919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 648
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a76b2f394fb14d60800000000000000
+      internalID: 7872783944933664675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 648
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd576025b5b932b0800000000000000
+      internalID: -5604248471748518469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 648
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa4725022fbbb80800000000000000
+      internalID: -8377836461156423045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 649
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2d269e8840d990800000000000000
+      internalID: -7363305613508662535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 649
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1dda14e33a5fa0800000000000000
+      internalID: -5811275314371945070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 661
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b0d664b10e9c60800000000000000
+      internalID: 7826695076747194678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 661
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f6ffd54233e3f0800000000000000
+      internalID: -872798627088107991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 661
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840d532ccc1cafe0800000000000000
+      internalID: -1176533739558337403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 520
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4d5a97c01a45e0800000000000000
+      internalID: -1924707441273123414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 520
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a402d909f1a85a240800000000000000
+      internalID: 4802396445835337802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 520
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d814095544941450800000000000000
+      internalID: 6058630424287254741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 520
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357b33007ac8ddc0800000000000000
+      internalID: -3613916118525446853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 520
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e1c077aec4e570800000000000000
+      internalID: 8495142015674213484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 520
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbb3137b27d4c30800000000000000
+      internalID: 4345255346612976781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 520
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56381b3588b0da070800000000000000
+      internalID: 8119158383366472549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_16
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 520
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da0db9ad2257dd0800000000000000
+      internalID: -2489044896739971682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 520
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a4cde41701f5a0800000000000000
+      internalID: -6489397801594345770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a4650c8778c830800000000000000
+      internalID: 4091651704735703681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb18e7db003c0180800000000000000
+      internalID: -9147883915671233556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecebcc774d9f3c10800000000000000
+      internalID: 2035518486956731630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 405
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d0fc5ac24a3650800000000000000
+      internalID: 6213352072821135566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 387
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fbb29abecaf5820800000000000000
+      internalID: 2909234012460138348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 392
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d6bc0530b2b220800000000000000
+      internalID: 2500254485037111315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7b3d80cab62c90800000000000000
+      internalID: -7194858018511815551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9846c3249be757420800000000000000
+      internalID: 2627145291785856137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 392
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffba68711fc91a0800000000000000
+      internalID: -6801296253890330640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bbe7a2c19f3d4c0800000000000000
+      internalID: -4263790522822378610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 264
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f7056cc6b54230800000000000000
+      internalID: 3622502464274036255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 264
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d7d86d57a6d480800000000000000
+      internalID: -8874721996054210385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 264
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f4556af9a76e30800000000000000
+      internalID: 4496749645859713153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 264
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc20b7c1845628bc0800000000000000
+      internalID: -3782349376647920948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 264
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ad1023b2e65890800000000000000
+      internalID: -7469533672981552990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 264
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f9fd4dee79a180800000000000000
+      internalID: -9103605614072172529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 264
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65fcfb2dc36b040800000000000000
+      internalID: 4662981340047562464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 264
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33804be986af6ee70800000000000000
+      internalID: 9144271420668512307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7f1cf4c7a1ba90800000000000000
+      internalID: -7299869056505512996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 149
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63525723f2e9cafd0800000000000000
+      internalID: -2329312981710199498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 149
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc306b56e5966280800000000000000
+      internalID: -9050381584546382664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 136
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393127819adeb5e0800000000000000
+      internalID: -1891834474876815053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 149
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb25287cd39c9f90800000000000000
+      internalID: -6945513950194357323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 149
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c04e3be1c5f7300800000000000000
+      internalID: 252021391092878345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 136
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fe9b8cdef2b2a0800000000000000
+      internalID: -6723031070522019558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 136
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee48b81b7647000800000000000000
+      internalID: 32765109546053202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 136
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5290245ac82baf3c0800000000000000
+      internalID: -4324948174998206171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82408ccb7d2e8c10800000000000000
+      internalID: 2057632089490080397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae059f4bb3fca2250800000000000000
+      internalID: 5920772515478196458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e76997d01923f0800000000000000
+      internalID: -925189730270190035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a9488d59605bf0800000000000000
+      internalID: -337654121613383193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f8a23653288390800000000000000
+      internalID: -7815958300177403634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c2c75750568290800000000000000
+      internalID: -7888529361228085342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 8
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f851fa1a6cd3e750800000000000000
+      internalID: 6333147849289718000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 8
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfba2605e951bb90800000000000000
+      internalID: -7227897086767087653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue demon_53
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 8
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce01631671c50d0800000000000000
+      internalID: -3432843109676815326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a0744aa27e2ce8448e192703f728132
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

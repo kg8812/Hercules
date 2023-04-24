@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 0fe561125aea04044b7bbe506fb7352e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8418012871122784395
+    second: brown demon_0
+  - first:
+      213: -3219181347408237769
+    second: brown demon_1
+  - first:
+      213: 6105196767729284764
+    second: brown demon_2
+  - first:
+      213: 2524504235728583872
+    second: brown demon_3
+  - first:
+      213: 8056519836241061515
+    second: brown demon_4
+  - first:
+      213: 335084873701908301
+    second: brown demon_5
+  - first:
+      213: -183734824605335959
+    second: brown demon_6
+  - first:
+      213: 8548785914114679550
+    second: brown demon_7
+  - first:
+      213: 3460367377804972304
+    second: brown demon_8
+  - first:
+      213: 982739375697156297
+    second: brown demon_9
+  - first:
+      213: -4048188533049659869
+    second: brown demon_10
+  - first:
+      213: 8135891937934913170
+    second: brown demon_11
+  - first:
+      213: -7719190566874882065
+    second: brown demon_12
+  - first:
+      213: -241093763313728672
+    second: brown demon_13
+  - first:
+      213: -6362770706366276258
+    second: brown demon_14
+  - first:
+      213: -2476008865078739570
+    second: brown demon_15
+  - first:
+      213: -2698825344563960413
+    second: brown demon_16
+  - first:
+      213: 3809612096905434774
+    second: brown demon_17
+  - first:
+      213: -96329553320618711
+    second: brown demon_18
+  - first:
+      213: 1291948145186932138
+    second: brown demon_19
+  - first:
+      213: 1812772956045513823
+    second: brown demon_20
+  - first:
+      213: -3442617103154689978
+    second: brown demon_21
+  - first:
+      213: 2139606361853581219
+    second: brown demon_22
+  - first:
+      213: 4401925501105130515
+    second: brown demon_23
+  - first:
+      213: 5175887332714094815
+    second: brown demon_24
+  - first:
+      213: -4487596813854648603
+    second: brown demon_25
+  - first:
+      213: -6948263240368174484
+    second: brown demon_26
+  - first:
+      213: -2873711156480634391
+    second: brown demon_27
+  - first:
+      213: 345480507801230556
+    second: brown demon_28
+  - first:
+      213: -2520278884195594639
+    second: brown demon_29
+  - first:
+      213: -6313944052738958686
+    second: brown demon_30
+  - first:
+      213: 6305144757524142728
+    second: brown demon_31
+  - first:
+      213: 6203629114868917673
+    second: brown demon_32
+  - first:
+      213: -7135746033198956258
+    second: brown demon_33
+  - first:
+      213: 1217399084930670918
+    second: brown demon_34
+  - first:
+      213: -1501050586201077807
+    second: brown demon_35
+  - first:
+      213: 24694729651571721
+    second: brown demon_36
+  - first:
+      213: -6717503705583183834
+    second: brown demon_37
+  - first:
+      213: 5044233906180949485
+    second: brown demon_38
+  - first:
+      213: -4252487982787435841
+    second: brown demon_39
+  - first:
+      213: -5531181636797502902
+    second: brown demon_40
+  - first:
+      213: 5575614697091405132
+    second: brown demon_41
+  - first:
+      213: 5815511546309381355
+    second: brown demon_42
+  - first:
+      213: -4575591457412513359
+    second: brown demon_43
+  - first:
+      213: -8378991554583519559
+    second: brown demon_44
+  - first:
+      213: 8815550442428157143
+    second: brown demon_45
+  - first:
+      213: 3852376219267354605
+    second: brown demon_46
+  - first:
+      213: 8897429570425951868
+    second: brown demon_47
+  - first:
+      213: -9066161653459789679
+    second: brown demon_48
+  - first:
+      213: 7751310219078596533
+    second: brown demon_49
+  - first:
+      213: 7587106174073845228
+    second: brown demon_50
+  - first:
+      213: -8696225208113187118
+    second: brown demon_51
+  - first:
+      213: 1308997510820779597
+    second: brown demon_52
+  - first:
+      213: -156635580060398310
+    second: brown demon_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brown demon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8090f11b1ac2d470800000000000000
+      internalID: 8418012871122784395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 642
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2b28de9b2353d0800000000000000
+      internalID: -3219181347408237769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fd501d140ab450800000000000000
+      internalID: 6105196767729284764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc329c1a37d80320800000000000000
+      internalID: 2524504235728583872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8669051b128ecf60800000000000000
+      internalID: 8056519836241061515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fdb92dae576a400800000000000000
+      internalID: 335084873701908301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb786862e337df0800000000000000
+      internalID: -183734824605335959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22ba7de7363a670800000000000000
+      internalID: 8548785914114679550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 641
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115a6adbc1b50030800000000000000
+      internalID: 3460367377804972304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d733614463ad00800000000000000
+      internalID: 982739375697156297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee3c73af1f1d7c0800000000000000
+      internalID: -4048188533049659869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e239b9c9e78e070800000000000000
+      internalID: 8135891937934913170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef50e3d31defd490800000000000000
+      internalID: -7719190566874882065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638f18ef7677acf0800000000000000
+      internalID: -241093763313728672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd6c301c5e2b7a0800000000000000
+      internalID: -6362770706366276258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d73404e0373add0800000000000000
+      internalID: -2476008865078739570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_16
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a17ae5a8db8ad0800000000000000
+      internalID: -2698825344563960413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696541894067ed430800000000000000
+      internalID: 3809612096905434774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d3f818c4c9aef0800000000000000
+      internalID: -96329553320618711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa587163efbede110800000000000000
+      internalID: 1291948145186932138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5417872663482910800000000000000
+      internalID: 1812772956045513823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 386
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c7c40cfd5930d0800000000000000
+      internalID: -3442617103154689978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d27566a861bd10800000000000000
+      internalID: 2139606361853581219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 386
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cca1dbbe7c61d30800000000000000
+      internalID: 4401925501105130515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02ed72b1274d740800000000000000
+      internalID: 5175887332714094815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d40f597ad8b1c0800000000000000
+      internalID: -4487596813854648603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a43f7756fc29f90800000000000000
+      internalID: -6948263240368174484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e115e2cde68e18d0800000000000000
+      internalID: -2873711156480634391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc505001b46bc400800000000000000
+      internalID: 345480507801230556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8a9435bb260dd0800000000000000
+      internalID: -2520278884195594639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaddc4365d5068a0800000000000000
+      internalID: -6313944052738958686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a94a930cf508750800000000000000
+      internalID: 6305144757524142728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5680ecfc7b71650800000000000000
+      internalID: 6203629114868917673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1106c32accb8fc90800000000000000
+      internalID: -7135746033198956258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ad27840215e010800000000000000
+      internalID: 1217399084930670918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c79bd1723b2be0800000000000000
+      internalID: -1501050586201077807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc4bcc9bbb75000800000000000000
+      internalID: 24694729651571721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628185b78f1a6c2a0800000000000000
+      internalID: -6717503705583183834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de585ed1308b00640800000000000000
+      internalID: 5044233906180949485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26656d5b02cf4c0800000000000000
+      internalID: -4252487982787435841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a65865b9b4d33b0800000000000000
+      internalID: -5531181636797502902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459490b600906d40800000000000000
+      internalID: 5575614697091405132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec04f080f8d4b050800000000000000
+      internalID: 5815511546309381355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b18d9fdfcb3080c0800000000000000
+      internalID: -4575591457412513359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1d0d2397d7bb80800000000000000
+      internalID: -8378991554583519559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc77cab60275a70800000000000000
+      internalID: 8815550442428157143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defc79ab2c3667530800000000000000
+      internalID: 3852376219267354605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769b4fbd050a7b70800000000000000
+      internalID: 8897429570425951868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d241c2068e2280800000000000000
+      internalID: -9066161653459789679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f808739f229b60800000000000000
+      internalID: 7751310219078596533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce538dafdd0da4960800000000000000
+      internalID: 7587106174073845228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6bd9f6f3dc05780800000000000000
+      internalID: -8696225208113187118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d75cfc4e7a2210800000000000000
+      internalID: 1308997510820779597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown demon_53
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d005315c483ddf0800000000000000
+      internalID: -156635580060398310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4351c6c999613894c82926cffb2e5ddc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

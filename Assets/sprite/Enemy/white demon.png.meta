@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 5fd3cb68114e64b42bfaae708fbdb611
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3407692096033622194
+    second: white demon_0
+  - first:
+      213: 6739875789914862902
+    second: white demon_1
+  - first:
+      213: 4080995145405468542
+    second: white demon_2
+  - first:
+      213: -5561651830834988861
+    second: white demon_3
+  - first:
+      213: 1901060558467817908
+    second: white demon_4
+  - first:
+      213: -3669957334663015626
+    second: white demon_5
+  - first:
+      213: -2226019103392929304
+    second: white demon_6
+  - first:
+      213: -2869783695928878047
+    second: white demon_7
+  - first:
+      213: 1702892056424247415
+    second: white demon_8
+  - first:
+      213: 1301864812093508628
+    second: white demon_9
+  - first:
+      213: 2783366674583366713
+    second: white demon_10
+  - first:
+      213: -5931938549714784572
+    second: white demon_11
+  - first:
+      213: 8495535547877458658
+    second: white demon_12
+  - first:
+      213: -8120877006284305828
+    second: white demon_13
+  - first:
+      213: 1767948068910032218
+    second: white demon_14
+  - first:
+      213: 6790768225569458406
+    second: white demon_15
+  - first:
+      213: 2220542125599963809
+    second: white demon_16
+  - first:
+      213: -5435849716196687704
+    second: white demon_17
+  - first:
+      213: -7451258228041391488
+    second: white demon_18
+  - first:
+      213: -8895336610063316740
+    second: white demon_19
+  - first:
+      213: -1272069807156639842
+    second: white demon_20
+  - first:
+      213: -339758390580131195
+    second: white demon_21
+  - first:
+      213: 2449004213081836025
+    second: white demon_22
+  - first:
+      213: -1454235121916089764
+    second: white demon_23
+  - first:
+      213: -353282754187619576
+    second: white demon_24
+  - first:
+      213: -7234194963601036924
+    second: white demon_25
+  - first:
+      213: 3062007713111339216
+    second: white demon_26
+  - first:
+      213: 7092106918016219337
+    second: white demon_27
+  - first:
+      213: 3842711808952288467
+    second: white demon_28
+  - first:
+      213: 2112082746792412873
+    second: white demon_29
+  - first:
+      213: -2870049441062042367
+    second: white demon_30
+  - first:
+      213: 7512643830159876850
+    second: white demon_31
+  - first:
+      213: -4643701542929812846
+    second: white demon_32
+  - first:
+      213: -5042509693464201089
+    second: white demon_33
+  - first:
+      213: -1093378369261061501
+    second: white demon_34
+  - first:
+      213: -4654287402602873377
+    second: white demon_35
+  - first:
+      213: -8073967452635750368
+    second: white demon_36
+  - first:
+      213: -6929202751719016525
+    second: white demon_37
+  - first:
+      213: -3983947878433320648
+    second: white demon_38
+  - first:
+      213: -3201521357249449562
+    second: white demon_39
+  - first:
+      213: 992979214363829135
+    second: white demon_40
+  - first:
+      213: 3083369551702480086
+    second: white demon_41
+  - first:
+      213: 5397752155468668968
+    second: white demon_42
+  - first:
+      213: 1353358638582290676
+    second: white demon_43
+  - first:
+      213: 389124375509621031
+    second: white demon_44
+  - first:
+      213: 3666760332180050229
+    second: white demon_45
+  - first:
+      213: 3839827078704047817
+    second: white demon_46
+  - first:
+      213: -649051380371218102
+    second: white demon_47
+  - first:
+      213: -4498975761336752896
+    second: white demon_48
+  - first:
+      213: 170285626929646307
+    second: white demon_49
+  - first:
+      213: -82413801058480750
+    second: white demon_50
+  - first:
+      213: 4144020580702504002
+    second: white demon_51
+  - first:
+      213: -1569943872740673113
+    second: white demon_52
+  - first:
+      213: -2967631200473610803
+    second: white demon_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white demon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88df718ed8a4f20800000000000000
+      internalID: 3407692096033622194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 642
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63571205259d88d50800000000000000
+      internalID: 6739875789914862902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8cf3767b92a830800000000000000
+      internalID: 4080995145405468542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 642
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8fda2702b01d2b0800000000000000
+      internalID: -5561651830834988861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eaf3718ce16a10800000000000000
+      internalID: 1901060558467817908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63352969f31b11dc0800000000000000
+      internalID: -3669957334663015626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9e70f5b679b11e0800000000000000
+      internalID: -2226019103392929304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 642
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c93fdeeea7c28d0800000000000000
+      internalID: -2869783695928878047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 641
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77070029d43e1a710800000000000000
+      internalID: 1702892056424247415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0a662627211210800000000000000
+      internalID: 1301864812093508628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca33e5e3180a620800000000000000
+      internalID: 2783366674583366713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceedca51558dada0800000000000000
+      internalID: -5931938549714784572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e280fbc19436e570800000000000000
+      internalID: 8495535547877458658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a49c79369dc4f80800000000000000
+      internalID: -8120877006284305828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5568b4d663098810800000000000000
+      internalID: 1767948068910032218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 514
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c31dd8b7ad3e50800000000000000
+      internalID: 6790768225569458406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_16
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 514
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3d2d5c43f0de10800000000000000
+      internalID: 2220542125599963809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 514
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a040b5cb7bff84b0800000000000000
+      internalID: -5435849716196687704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e2ebbe10d79890800000000000000
+      internalID: -7451258228041391488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf806af8b7a6d8480800000000000000
+      internalID: -8895336610063316740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97cde60043b85ee0800000000000000
+      internalID: -1272069807156639842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 386
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a430c3b8fe84bf0800000000000000
+      internalID: -339758390580131195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98d2e3b5c9cf120800000000000000
+      internalID: 2449004213081836025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 386
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a6b4a8cd481dbe0800000000000000
+      internalID: -1454235121916089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031063f433e81bf0800000000000000
+      internalID: -353282754187619576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e3ae420afa9b90800000000000000
+      internalID: -7234194963601036924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 386
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0f187bacf6e7a20800000000000000
+      internalID: 3062007713111339216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c872759aa93c6260800000000000000
+      internalID: 7092106918016219337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cccad70e045530800000000000000
+      internalID: 3842711808952288467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c60bc26110af4d10800000000000000
+      internalID: 2112082746792412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 258
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10540b15d398b28d0800000000000000
+      internalID: -2870049441062042367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a5b482c5424860800000000000000
+      internalID: 7512643830159876850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 258
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923cb2dc024e8fb0800000000000000
+      internalID: -4643701542929812846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783a907628650ab0800000000000000
+      internalID: -5042509693464201089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a39178a2a83d0f0800000000000000
+      internalID: -1093378369261061501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 258
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb74d4446a86fb0800000000000000
+      internalID: -4654287402602873377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a499216183ff80800000000000000
+      internalID: -8073967452635750368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f02f4fc686df90800000000000000
+      internalID: -6929202751719016525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319f4e238c26b8c0800000000000000
+      internalID: -3983947878433320648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f158b949e193d0800000000000000
+      internalID: -3201521357249449562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a08d9555c7cd00800000000000000
+      internalID: 992979214363829135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 130
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45b7855445aca20800000000000000
+      internalID: 3083369551702480086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8202f44acfaa8ea40800000000000000
+      internalID: 5397752155468668968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8576ae28818c210800000000000000
+      internalID: 1353358638582290676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 130
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72952bfce82766500800000000000000
+      internalID: 389124375509621031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d5144813f2e230800000000000000
+      internalID: 3666760332180050229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a411426ec94530800000000000000
+      internalID: 3839827078704047817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412ff7553b1ef6f0800000000000000
+      internalID: -649051380371218102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0052e64b16d6091c0800000000000000
+      internalID: -4498975761336752896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea0f7f10e9fc5200800000000000000
+      internalID: 170285626929646307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc157a5153bdef0800000000000000
+      internalID: -82413801058480750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444eae13c4828930800000000000000
+      internalID: 4144020580702504002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9bdfb9d50763ae0800000000000000
+      internalID: -1569943872740673113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white demon_53
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58767752bd0d6d0800000000000000
+      internalID: -2967631200473610803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e19de5f6bb1485488e6b462fc255f43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ed816e1f931cf4b95a4a290058c070, type: 3}
+  m_Name: S_Item_01
+  m_EditorClassIdentifier: 
+  cooldown: 15
+  skillImage: {fileID: 21300000, guid: 6679d9c16c903de4592930a5c7af63bf, type: 3}
+  description: "\uD50C\uB808\uC774\uC5B4 \uC804\uBC29\uC5D0 \uCD5C\uB300 4\uCD08\uB3D9\uC548
+    \uBD88\uC744 \uBFDC\uC5B4 \uC801\uC5D0\uAC8C \uC9C0\uC18D\uB370\uBBF8\uC9C0\uB97C
+    \uC785\uD78C\uB2E4."
+  skillName: "\uB4DC\uB798\uACE4 \uBE0C\uB808\uC2A4"
+  isGod: 0
+  isActive: 1

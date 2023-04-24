@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Screen.unity
+    guid: 823f4fd02640fa84b8cd42d372f60cc9
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 435f917b60460614ab7206a35d0c272b
+  - enabled: 1
+    path: Assets/NSW/Scene/2stage.unity
+    guid: 5a8d54b897ff81a41b93a41bfc9590ee
+  - enabled: 1
+    path: Assets/HG/Scene/Stage 3.unity
+    guid: 480f4aee4ace12540a31f893ee473ed2
+  - enabled: 1
+    path: Assets/NSW/Scene/2-1.unity
+    guid: 1b5270d2a275d864c893afe949953e4b
+  - enabled: 1
+    path: Assets/HG/Scene/Bull.unity
+    guid: f367461bd9954eb4d8915a327b26aa9d
+  - enabled: 1
+    path: Assets/HG/Scene/Hippolyta.unity
+    guid: 74fdddd02d8f22a4fba3b68a18a7ec15
+  - enabled: 1
+    path: Assets/NSW/Scene/2-3.unity
+    guid: a5b6b75d1420bbb479820f2fdbb4f7d5
+  - enabled: 1
+    path: Assets/NSW/Scene/2-2.unity
+    guid: f1ac52a94efa9e94289749871fc1208e
+  - enabled: 1
+    path: Assets/Scenes/StartArea.unity
+    guid: efeb0d145eb1d8448890d6bf90e3fd51
+  - enabled: 1
+    path: Assets/Scenes/Shelter.unity
+    guid: 74a2704c4f1f168459d3dfd43110c892
+  - enabled: 1
+    path: Assets/HG/Scene/Diomedes.unity
+    guid: 205aa0439b4afa044bc0dabbba5f10f9
+  - enabled: 1
+    path: Assets/CSG/Scene/Stage1.unity
+    guid: 9c3a78e76a6e7c74394a3af1afe9cd80
+  - enabled: 1
+    path: Assets/CSG/Scene/Boss Stage1.unity
+    guid: 7288f909f76a1e746b006c20e0b93d36
+  - enabled: 1
+    path: Assets/CSG/Scene/Boss Stage2.unity
+    guid: 26b599a33e7e52e4ea94365784beb166
+  - enabled: 1
+    path: Assets/CSG/Scene/Boss Stage3.unity
+    guid: e96d4da5744bb89419ea34c8f4cc1010
+  - enabled: 1
+    path: Assets/KSH/Scene/4Stage.unity
+    guid: f023e98922f292c4990000692a630418
+  - enabled: 1
+    path: Assets/KSH/Scene/4-1boss.unity
+    guid: b91ef6609c12d3648a95670948b15f4a
+  - enabled: 1
+    path: Assets/KSH/Scene/4-2boss.unity
+    guid: efa9d82bf795b384c9f945db3f9585a6
+  - enabled: 1
+    path: Assets/KSH/Scene/4-3boss.unity
+    guid: 28ea49617caa23d4880f1f18aacd5f94
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: d26ddd004eb5b8a4d853f6294e549c6c
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 10489a61e1707b9458f5b944eab0122a
+  m_configObjects: {}

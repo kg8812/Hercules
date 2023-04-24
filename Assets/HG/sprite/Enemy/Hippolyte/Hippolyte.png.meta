@@ -1,0 +1,2423 @@
+fileFormatVersion: 2
+guid: b3d738935f121724a9cc5f5eeb17a730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5574558238072105860
+    second: PC Computer - Ragnarok Online - Valkyrie_0
+  - first:
+      213: 6318534324727278083
+    second: PC Computer - Ragnarok Online - Valkyrie_1
+  - first:
+      213: -7372795027203940352
+    second: PC Computer - Ragnarok Online - Valkyrie_2
+  - first:
+      213: -7678434249311054614
+    second: PC Computer - Ragnarok Online - Valkyrie_3
+  - first:
+      213: 7676181481106096476
+    second: PC Computer - Ragnarok Online - Valkyrie_4
+  - first:
+      213: -7272190433539158031
+    second: PC Computer - Ragnarok Online - Valkyrie_5
+  - first:
+      213: -2411329843990291880
+    second: PC Computer - Ragnarok Online - Valkyrie_6
+  - first:
+      213: 4195535915689894237
+    second: PC Computer - Ragnarok Online - Valkyrie_7
+  - first:
+      213: -4683171169828036381
+    second: PC Computer - Ragnarok Online - Valkyrie_8
+  - first:
+      213: -735254254906299610
+    second: PC Computer - Ragnarok Online - Valkyrie_9
+  - first:
+      213: -4934083426182804000
+    second: PC Computer - Ragnarok Online - Valkyrie_10
+  - first:
+      213: 2202874156957618737
+    second: PC Computer - Ragnarok Online - Valkyrie_11
+  - first:
+      213: 5423056720167574712
+    second: PC Computer - Ragnarok Online - Valkyrie_12
+  - first:
+      213: 4253585331137030119
+    second: PC Computer - Ragnarok Online - Valkyrie_13
+  - first:
+      213: 8672213320427936967
+    second: PC Computer - Ragnarok Online - Valkyrie_14
+  - first:
+      213: -6569337936967951850
+    second: PC Computer - Ragnarok Online - Valkyrie_15
+  - first:
+      213: -2540536178182597347
+    second: PC Computer - Ragnarok Online - Valkyrie_16
+  - first:
+      213: -882000695341960523
+    second: PC Computer - Ragnarok Online - Valkyrie_17
+  - first:
+      213: -370295831212062345
+    second: PC Computer - Ragnarok Online - Valkyrie_18
+  - first:
+      213: -5270566689362393702
+    second: PC Computer - Ragnarok Online - Valkyrie_19
+  - first:
+      213: -6348641294554599144
+    second: PC Computer - Ragnarok Online - Valkyrie_20
+  - first:
+      213: -4504877412971976279
+    second: PC Computer - Ragnarok Online - Valkyrie_21
+  - first:
+      213: -3942319068701051955
+    second: PC Computer - Ragnarok Online - Valkyrie_22
+  - first:
+      213: -1239920661446005783
+    second: PC Computer - Ragnarok Online - Valkyrie_23
+  - first:
+      213: 471521002311604352
+    second: PC Computer - Ragnarok Online - Valkyrie_24
+  - first:
+      213: 5767698276657671365
+    second: PC Computer - Ragnarok Online - Valkyrie_25
+  - first:
+      213: -24083872655095322
+    second: PC Computer - Ragnarok Online - Valkyrie_26
+  - first:
+      213: 4034313819135754538
+    second: PC Computer - Ragnarok Online - Valkyrie_27
+  - first:
+      213: 5598726028673434050
+    second: PC Computer - Ragnarok Online - Valkyrie_28
+  - first:
+      213: 188858123860452680
+    second: PC Computer - Ragnarok Online - Valkyrie_29
+  - first:
+      213: 6485230871890149143
+    second: PC Computer - Ragnarok Online - Valkyrie_30
+  - first:
+      213: -7262129499389410669
+    second: PC Computer - Ragnarok Online - Valkyrie_31
+  - first:
+      213: 4682866587354837705
+    second: PC Computer - Ragnarok Online - Valkyrie_32
+  - first:
+      213: 3161613049976418137
+    second: PC Computer - Ragnarok Online - Valkyrie_33
+  - first:
+      213: -4284235963824356566
+    second: PC Computer - Ragnarok Online - Valkyrie_34
+  - first:
+      213: 1420945953665430141
+    second: PC Computer - Ragnarok Online - Valkyrie_35
+  - first:
+      213: -7084868016587070077
+    second: PC Computer - Ragnarok Online - Valkyrie_36
+  - first:
+      213: -1515368840704955137
+    second: PC Computer - Ragnarok Online - Valkyrie_37
+  - first:
+      213: -6624197929868051346
+    second: PC Computer - Ragnarok Online - Valkyrie_38
+  - first:
+      213: 7658547493634453442
+    second: PC Computer - Ragnarok Online - Valkyrie_39
+  - first:
+      213: -5108808753053847710
+    second: PC Computer - Ragnarok Online - Valkyrie_40
+  - first:
+      213: -7174898251314928160
+    second: PC Computer - Ragnarok Online - Valkyrie_41
+  - first:
+      213: -8512734102663272231
+    second: PC Computer - Ragnarok Online - Valkyrie_42
+  - first:
+      213: -1906813297726471146
+    second: PC Computer - Ragnarok Online - Valkyrie_43
+  - first:
+      213: -4481483037760908430
+    second: PC Computer - Ragnarok Online - Valkyrie_44
+  - first:
+      213: 66853984234948393
+    second: PC Computer - Ragnarok Online - Valkyrie_45
+  - first:
+      213: -7758578482973730312
+    second: PC Computer - Ragnarok Online - Valkyrie_46
+  - first:
+      213: 3718349924123868274
+    second: PC Computer - Ragnarok Online - Valkyrie_47
+  - first:
+      213: 8710197895234732572
+    second: PC Computer - Ragnarok Online - Valkyrie_48
+  - first:
+      213: 6908559093078149392
+    second: PC Computer - Ragnarok Online - Valkyrie_49
+  - first:
+      213: -1883174245936533311
+    second: PC Computer - Ragnarok Online - Valkyrie_50
+  - first:
+      213: 5400072237654181859
+    second: PC Computer - Ragnarok Online - Valkyrie_51
+  - first:
+      213: -2664436601607223542
+    second: PC Computer - Ragnarok Online - Valkyrie_52
+  - first:
+      213: -6737976382824542618
+    second: PC Computer - Ragnarok Online - Valkyrie_53
+  - first:
+      213: -732609279155429239
+    second: PC Computer - Ragnarok Online - Valkyrie_54
+  - first:
+      213: -3575860360703029436
+    second: PC Computer - Ragnarok Online - Valkyrie_55
+  - first:
+      213: -7797434793896652339
+    second: PC Computer - Ragnarok Online - Valkyrie_56
+  - first:
+      213: 3153779766004876946
+    second: PC Computer - Ragnarok Online - Valkyrie_57
+  - first:
+      213: -5837463528540886139
+    second: PC Computer - Ragnarok Online - Valkyrie_58
+  - first:
+      213: -2035319459623947660
+    second: PC Computer - Ragnarok Online - Valkyrie_59
+  - first:
+      213: -1620404293232539778
+    second: PC Computer - Ragnarok Online - Valkyrie_60
+  - first:
+      213: 4071445648464695567
+    second: PC Computer - Ragnarok Online - Valkyrie_61
+  - first:
+      213: 216235769493501849
+    second: PC Computer - Ragnarok Online - Valkyrie_62
+  - first:
+      213: -1307166438030534278
+    second: PC Computer - Ragnarok Online - Valkyrie_63
+  - first:
+      213: 4920471869909074918
+    second: PC Computer - Ragnarok Online - Valkyrie_64
+  - first:
+      213: -4031004603833962381
+    second: PC Computer - Ragnarok Online - Valkyrie_65
+  - first:
+      213: -2921551553997261236
+    second: PC Computer - Ragnarok Online - Valkyrie_66
+  - first:
+      213: -2771634268163395394
+    second: PC Computer - Ragnarok Online - Valkyrie_67
+  - first:
+      213: 3371353437607697056
+    second: PC Computer - Ragnarok Online - Valkyrie_68
+  - first:
+      213: 3850991581059456699
+    second: PC Computer - Ragnarok Online - Valkyrie_69
+  - first:
+      213: -710108567402746296
+    second: PC Computer - Ragnarok Online - Valkyrie_70
+  - first:
+      213: -6673514475544984138
+    second: PC Computer - Ragnarok Online - Valkyrie_71
+  - first:
+      213: -5982068379585524642
+    second: PC Computer - Ragnarok Online - Valkyrie_72
+  - first:
+      213: -5226008340714894164
+    second: PC Computer - Ragnarok Online - Valkyrie_73
+  - first:
+      213: 3103306745747510101
+    second: PC Computer - Ragnarok Online - Valkyrie_74
+  - first:
+      213: -4910422487588769196
+    second: PC Computer - Ragnarok Online - Valkyrie_75
+  - first:
+      213: -5036112921703633040
+    second: PC Computer - Ragnarok Online - Valkyrie_76
+  - first:
+      213: -434157393668103846
+    second: PC Computer - Ragnarok Online - Valkyrie_77
+  - first:
+      213: -6425543672723104928
+    second: PC Computer - Ragnarok Online - Valkyrie_78
+  - first:
+      213: -592604397166970852
+    second: PC Computer - Ragnarok Online - Valkyrie_79
+  - first:
+      213: 8950801175075495571
+    second: PC Computer - Ragnarok Online - Valkyrie_80
+  - first:
+      213: 8888777150303515761
+    second: PC Computer - Ragnarok Online - Valkyrie_81
+  - first:
+      213: -6864199967261193617
+    second: PC Computer - Ragnarok Online - Valkyrie_82
+  - first:
+      213: 26981504956609603
+    second: PC Computer - Ragnarok Online - Valkyrie_83
+  - first:
+      213: 6395792130022506784
+    second: PC Computer - Ragnarok Online - Valkyrie_84
+  - first:
+      213: 7262919346425259013
+    second: PC Computer - Ragnarok Online - Valkyrie_85
+  - first:
+      213: 29073989626515185
+    second: PC Computer - Ragnarok Online - Valkyrie_86
+  - first:
+      213: -8745079347527908169
+    second: PC Computer - Ragnarok Online - Valkyrie_87
+  - first:
+      213: -2007458956183123175
+    second: PC Computer - Ragnarok Online - Valkyrie_88
+  - first:
+      213: 2530479057856913955
+    second: PC Computer - Ragnarok Online - Valkyrie_89
+  - first:
+      213: 636124180476941449
+    second: PC Computer - Ragnarok Online - Valkyrie_90
+  - first:
+      213: -2521691972398464020
+    second: PC Computer - Ragnarok Online - Valkyrie_91
+  - first:
+      213: 1360230184431158585
+    second: PC Computer - Ragnarok Online - Valkyrie_92
+  - first:
+      213: -2318583166976837642
+    second: PC Computer - Ragnarok Online - Valkyrie_93
+  - first:
+      213: 6866312850428861296
+    second: PC Computer - Ragnarok Online - Valkyrie_94
+  - first:
+      213: -1281159867572648331
+    second: PC Computer - Ragnarok Online - Valkyrie_95
+  - first:
+      213: -1308540474247249463
+    second: PC Computer - Ragnarok Online - Valkyrie_96
+  - first:
+      213: -3441457441530844146
+    second: PC Computer - Ragnarok Online - Valkyrie_97
+  - first:
+      213: 7774962884311272144
+    second: PC Computer - Ragnarok Online - Valkyrie_98
+  - first:
+      213: -3960938395190471733
+    second: PC Computer - Ragnarok Online - Valkyrie_99
+  - first:
+      213: -6874642910930705967
+    second: PC Computer - Ragnarok Online - Valkyrie_100
+  - first:
+      213: -287740944492324456
+    second: PC Computer - Ragnarok Online - Valkyrie_101
+  - first:
+      213: -4704659579763653071
+    second: PC Computer - Ragnarok Online - Valkyrie_102
+  - first:
+      213: 7558165437180104651
+    second: PC Computer - Ragnarok Online - Valkyrie_103
+  - first:
+      213: -5117406225666113404
+    second: PC Computer - Ragnarok Online - Valkyrie_104
+  - first:
+      213: 3604302169756438623
+    second: PC Computer - Ragnarok Online - Valkyrie_105
+  - first:
+      213: 2712787159117377229
+    second: PC Computer - Ragnarok Online - Valkyrie_106
+  - first:
+      213: 5808903738037432836
+    second: PC Computer - Ragnarok Online - Valkyrie_107
+  - first:
+      213: -6376477928709284316
+    second: PC Computer - Ragnarok Online - Valkyrie_108
+  - first:
+      213: 5156805173382100587
+    second: PC Computer - Ragnarok Online - Valkyrie_109
+  - first:
+      213: 4679521676281252951
+    second: PC Computer - Ragnarok Online - Valkyrie_110
+  - first:
+      213: 8795621004452632990
+    second: PC Computer - Ragnarok Online - Valkyrie_111
+  - first:
+      213: 244544903264037150
+    second: PC Computer - Ragnarok Online - Valkyrie_112
+  - first:
+      213: -3727688375489961631
+    second: PC Computer - Ragnarok Online - Valkyrie_113
+  - first:
+      213: -2303961673925250599
+    second: PC Computer - Ragnarok Online - Valkyrie_114
+  - first:
+      213: 7659149310242919380
+    second: PC Computer - Ragnarok Online - Valkyrie_115
+  - first:
+      213: 4669450806449744272
+    second: PC Computer - Ragnarok Online - Valkyrie_116
+  - first:
+      213: -5638034757289157125
+    second: PC Computer - Ragnarok Online - Valkyrie_117
+  - first:
+      213: -7108893506787462209
+    second: PC Computer - Ragnarok Online - Valkyrie_118
+  - first:
+      213: 6932497210557630149
+    second: PC Computer - Ragnarok Online - Valkyrie_119
+  - first:
+      213: -2196252083084818286
+    second: PC Computer - Ragnarok Online - Valkyrie_120
+  - first:
+      213: -8573470080979515165
+    second: PC Computer - Ragnarok Online - Valkyrie_121
+  - first:
+      213: 2498808576690162796
+    second: PC Computer - Ragnarok Online - Valkyrie_122
+  - first:
+      213: 3364247103448697016
+    second: PC Computer - Ragnarok Online - Valkyrie_123
+  - first:
+      213: 6315411224133706732
+    second: PC Computer - Ragnarok Online - Valkyrie_124
+  - first:
+      213: -3419507378539257860
+    second: PC Computer - Ragnarok Online - Valkyrie_125
+  - first:
+      213: -7865650876839351908
+    second: PC Computer - Ragnarok Online - Valkyrie_126
+  - first:
+      213: -7628547275462121426
+    second: PC Computer - Ragnarok Online - Valkyrie_127
+  - first:
+      213: -6268569418216498650
+    second: PC Computer - Ragnarok Online - Valkyrie_128
+  - first:
+      213: -7572526325105577049
+    second: PC Computer - Ragnarok Online - Valkyrie_129
+  - first:
+      213: -4469841585130736270
+    second: PC Computer - Ragnarok Online - Valkyrie_130
+  - first:
+      213: 5635225857749475888
+    second: PC Computer - Ragnarok Online - Valkyrie_131
+  - first:
+      213: -3552271517914851744
+    second: PC Computer - Ragnarok Online - Valkyrie_132
+  - first:
+      213: -8514374806785456945
+    second: PC Computer - Ragnarok Online - Valkyrie_133
+  - first:
+      213: -9132364477092078093
+    second: PC Computer - Ragnarok Online - Valkyrie_134
+  - first:
+      213: 6617811729991755228
+    second: PC Computer - Ragnarok Online - Valkyrie_135
+  - first:
+      213: -4372112183227543988
+    second: PC Computer - Ragnarok Online - Valkyrie_136
+  - first:
+      213: 4299848640286537986
+    second: PC Computer - Ragnarok Online - Valkyrie_137
+  - first:
+      213: -2938384172403963015
+    second: PC Computer - Ragnarok Online - Valkyrie_138
+  - first:
+      213: 6067317651737179652
+    second: PC Computer - Ragnarok Online - Valkyrie_139
+  - first:
+      213: 6936181119900513557
+    second: PC Computer - Ragnarok Online - Valkyrie_140
+  - first:
+      213: 8105677595470361333
+    second: PC Computer - Ragnarok Online - Valkyrie_141
+  - first:
+      213: 1714218610707199163
+    second: PC Computer - Ragnarok Online - Valkyrie_142
+  - first:
+      213: 8316603283658029057
+    second: PC Computer - Ragnarok Online - Valkyrie_143
+  - first:
+      213: 2529550602384515002
+    second: PC Computer - Ragnarok Online - Valkyrie_144
+  - first:
+      213: -3252712018120913469
+    second: PC Computer - Ragnarok Online - Valkyrie_145
+  - first:
+      213: 727343235219466985
+    second: PC Computer - Ragnarok Online - Valkyrie_146
+  - first:
+      213: -503404611120617104
+    second: PC Computer - Ragnarok Online - Valkyrie_147
+  - first:
+      213: 3273828051919185223
+    second: PC Computer - Ragnarok Online - Valkyrie_148
+  - first:
+      213: 2655935855774500867
+    second: PC Computer - Ragnarok Online - Valkyrie_149
+  - first:
+      213: 6118669657851346175
+    second: PC Computer - Ragnarok Online - Valkyrie_150
+  - first:
+      213: 3325226297665520406
+    second: PC Computer - Ragnarok Online - Valkyrie_151
+  - first:
+      213: -1603467859476846200
+    second: PC Computer - Ragnarok Online - Valkyrie_152
+  - first:
+      213: -3817414153383269657
+    second: PC Computer - Ragnarok Online - Valkyrie_153
+  - first:
+      213: 574025996839111904
+    second: PC Computer - Ragnarok Online - Valkyrie_154
+  - first:
+      213: -2674062513370501053
+    second: PC Computer - Ragnarok Online - Valkyrie_155
+  - first:
+      213: 531853125151379775
+    second: PC Computer - Ragnarok Online - Valkyrie_156
+  - first:
+      213: -9022859029799387706
+    second: PC Computer - Ragnarok Online - Valkyrie_157
+  - first:
+      213: -5194003063348202993
+    second: PC Computer - Ragnarok Online - Valkyrie_158
+  - first:
+      213: 3304363976150075328
+    second: PC Computer - Ragnarok Online - Valkyrie_159
+  - first:
+      213: 6263839124693959560
+    second: PC Computer - Ragnarok Online - Valkyrie_160
+  - first:
+      213: 8916982972524247052
+    second: PC Computer - Ragnarok Online - Valkyrie_161
+  - first:
+      213: 7516289224480025866
+    second: PC Computer - Ragnarok Online - Valkyrie_162
+  - first:
+      213: 310774135400213924
+    second: PC Computer - Ragnarok Online - Valkyrie_163
+  - first:
+      213: 3631438138179276189
+    second: PC Computer - Ragnarok Online - Valkyrie_164
+  - first:
+      213: 8556797097470397765
+    second: PC Computer - Ragnarok Online - Valkyrie_165
+  - first:
+      213: -3674591559030351437
+    second: PC Computer - Ragnarok Online - Valkyrie_166
+  - first:
+      213: -3781922027805040535
+    second: PC Computer - Ragnarok Online - Valkyrie_167
+  - first:
+      213: -3387024539873106589
+    second: PC Computer - Ragnarok Online - Valkyrie_168
+  - first:
+      213: -7615821085158821182
+    second: PC Computer - Ragnarok Online - Valkyrie_169
+  - first:
+      213: 7607084607778882119
+    second: PC Computer - Ragnarok Online - Valkyrie_170
+  - first:
+      213: 6667021080489720909
+    second: PC Computer - Ragnarok Online - Valkyrie_171
+  - first:
+      213: 5265546068824057663
+    second: PC Computer - Ragnarok Online - Valkyrie_172
+  - first:
+      213: 1158686386863149792
+    second: PC Computer - Ragnarok Online - Valkyrie_173
+  - first:
+      213: -651000612056495770
+    second: PC Computer - Ragnarok Online - Valkyrie_174
+  - first:
+      213: 6783947293696119323
+    second: PC Computer - Ragnarok Online - Valkyrie_175
+  - first:
+      213: 3445942390636329171
+    second: PC Computer - Ragnarok Online - Valkyrie_176
+  - first:
+      213: -4994983987669984804
+    second: PC Computer - Ragnarok Online - Valkyrie_177
+  - first:
+      213: 3852030048592240969
+    second: PC Computer - Ragnarok Online - Valkyrie_178
+  - first:
+      213: 7829590743272403836
+    second: PC Computer - Ragnarok Online - Valkyrie_179
+  - first:
+      213: -9111282513501424826
+    second: PC Computer - Ragnarok Online - Valkyrie_180
+  - first:
+      213: 7844796204992010549
+    second: PC Computer - Ragnarok Online - Valkyrie_181
+  - first:
+      213: -1278050806951745233
+    second: PC Computer - Ragnarok Online - Valkyrie_182
+  - first:
+      213: 9165766036120697269
+    second: PC Computer - Ragnarok Online - Valkyrie_183
+  - first:
+      213: 3251893037400849355
+    second: PC Computer - Ragnarok Online - Valkyrie_184
+  - first:
+      213: -3856218798572816506
+    second: PC Computer - Ragnarok Online - Valkyrie_185
+  - first:
+      213: -6352043424146977360
+    second: PC Computer - Ragnarok Online - Valkyrie_186
+  - first:
+      213: 8075413813806894410
+    second: PC Computer - Ragnarok Online - Valkyrie_187
+  - first:
+      213: 8903666770080246485
+    second: PC Computer - Ragnarok Online - Valkyrie_188
+  - first:
+      213: 8458576493226923323
+    second: PC Computer - Ragnarok Online - Valkyrie_189
+  - first:
+      213: -8285082511886501917
+    second: PC Computer - Ragnarok Online - Valkyrie_190
+  - first:
+      213: 6620149463358933404
+    second: PC Computer - Ragnarok Online - Valkyrie_191
+  - first:
+      213: 4911606016401974086
+    second: PC Computer - Ragnarok Online - Valkyrie_192
+  - first:
+      213: 7113723647309332121
+    second: PC Computer - Ragnarok Online - Valkyrie_193
+  - first:
+      213: 753548765024697667
+    second: PC Computer - Ragnarok Online - Valkyrie_194
+  - first:
+      213: 7621849989746525196
+    second: PC Computer - Ragnarok Online - Valkyrie_195
+  - first:
+      213: -7023720518868931430
+    second: PC Computer - Ragnarok Online - Valkyrie_196
+  - first:
+      213: 8590774559568532604
+    second: PC Computer - Ragnarok Online - Valkyrie_197
+  - first:
+      213: -1855132823962194307
+    second: PC Computer - Ragnarok Online - Valkyrie_198
+  - first:
+      213: 7391489765695726923
+    second: PC Computer - Ragnarok Online - Valkyrie_199
+  - first:
+      213: -9166822516708075361
+    second: PC Computer - Ragnarok Online - Valkyrie_200
+  - first:
+      213: 4195726510636185947
+    second: PC Computer - Ragnarok Online - Valkyrie_201
+  - first:
+      213: -1457837896782408270
+    second: PC Computer - Ragnarok Online - Valkyrie_202
+  - first:
+      213: 7320964090098880698
+    second: PC Computer - Ragnarok Online - Valkyrie_203
+  - first:
+      213: 6265453586143531146
+    second: PC Computer - Ragnarok Online - Valkyrie_204
+  - first:
+      213: -6115437202242705612
+    second: PC Computer - Ragnarok Online - Valkyrie_205
+  - first:
+      213: 1741748459907941710
+    second: PC Computer - Ragnarok Online - Valkyrie_206
+  - first:
+      213: -6294587456667839629
+    second: PC Computer - Ragnarok Online - Valkyrie_207
+  - first:
+      213: 5514705125863813142
+    second: PC Computer - Ragnarok Online - Valkyrie_208
+  - first:
+      213: -4922624942514877962
+    second: PC Computer - Ragnarok Online - Valkyrie_209
+  - first:
+      213: 6435552169856601628
+    second: PC Computer - Ragnarok Online - Valkyrie_210
+  - first:
+      213: 4247632771582472516
+    second: PC Computer - Ragnarok Online - Valkyrie_211
+  - first:
+      213: -6555811744962791313
+    second: PC Computer - Ragnarok Online - Valkyrie_212
+  - first:
+      213: 108403642542772677
+    second: PC Computer - Ragnarok Online - Valkyrie_213
+  - first:
+      213: -4441189051052839244
+    second: PC Computer - Ragnarok Online - Valkyrie_214
+  - first:
+      213: -1474746068129267218
+    second: PC Computer - Ragnarok Online - Valkyrie_215
+  - first:
+      213: 3319170980553141539
+    second: PC Computer - Ragnarok Online - Valkyrie_216
+  - first:
+      213: -9203869370756948249
+    second: PC Computer - Ragnarok Online - Valkyrie_217
+  - first:
+      213: -5753233708478636020
+    second: PC Computer - Ragnarok Online - Valkyrie_218
+  - first:
+      213: -6073616068573196289
+    second: PC Computer - Ragnarok Online - Valkyrie_219
+  - first:
+      213: -8166769632976503660
+    second: PC Computer - Ragnarok Online - Valkyrie_220
+  - first:
+      213: -732413171810155634
+    second: PC Computer - Ragnarok Online - Valkyrie_221
+  - first:
+      213: -5363135680403860688
+    second: PC Computer - Ragnarok Online - Valkyrie_222
+  - first:
+      213: -3191216581388324348
+    second: PC Computer - Ragnarok Online - Valkyrie_223
+  - first:
+      213: 1523370367475887152
+    second: PC Computer - Ragnarok Online - Valkyrie_224
+  - first:
+      213: 3541001914060878966
+    second: PC Computer - Ragnarok Online - Valkyrie_225
+  - first:
+      213: 5651674762688323292
+    second: PC Computer - Ragnarok Online - Valkyrie_226
+  - first:
+      213: -1315774069662995559
+    second: PC Computer - Ragnarok Online - Valkyrie_227
+  - first:
+      213: -7935359897728888440
+    second: PC Computer - Ragnarok Online - Valkyrie_228
+  - first:
+      213: -1224285732705313043
+    second: PC Computer - Ragnarok Online - Valkyrie_229
+  - first:
+      213: 1905398768127877908
+    second: PC Computer - Ragnarok Online - Valkyrie_230
+  - first:
+      213: 3998392940432035586
+    second: PC Computer - Ragnarok Online - Valkyrie_231
+  - first:
+      213: 8312095151697042847
+    second: PC Computer - Ragnarok Online - Valkyrie_232
+  - first:
+      213: -6837941670311405647
+    second: PC Computer - Ragnarok Online - Valkyrie_233
+  - first:
+      213: 7948079034628572492
+    second: PC Computer - Ragnarok Online - Valkyrie_234
+  - first:
+      213: -8171168405445795463
+    second: PC Computer - Ragnarok Online - Valkyrie_235
+  - first:
+      213: 3496948250087553572
+    second: PC Computer - Ragnarok Online - Valkyrie_236
+  - first:
+      213: 4211384264342404660
+    second: PC Computer - Ragnarok Online - Valkyrie_237
+  - first:
+      213: -292974206866687305
+    second: PC Computer - Ragnarok Online - Valkyrie_238
+  - first:
+      213: 6065838831093967245
+    second: PC Computer - Ragnarok Online - Valkyrie_239
+  - first:
+      213: 6411314505884658758
+    second: PC Computer - Ragnarok Online - Valkyrie_240
+  - first:
+      213: -4267301433335666224
+    second: PC Computer - Ragnarok Online - Valkyrie_241
+  - first:
+      213: -8821515485191748966
+    second: PC Computer - Ragnarok Online - Valkyrie_242
+  - first:
+      213: 8099277022201962184
+    second: PC Computer - Ragnarok Online - Valkyrie_243
+  - first:
+      213: 4593693114821782691
+    second: PC Computer - Ragnarok Online - Valkyrie_244
+  - first:
+      213: 1848957313637176062
+    second: PC Computer - Ragnarok Online - Valkyrie_245
+  - first:
+      213: -1014047917683064006
+    second: PC Computer - Ragnarok Online - Valkyrie_246
+  - first:
+      213: -9201836153158131
+    second: PC Computer - Ragnarok Online - Valkyrie_247
+  - first:
+      213: -8590166111543647291
+    second: PC Computer - Ragnarok Online - Valkyrie_248
+  - first:
+      213: -9009959465102009367
+    second: PC Computer - Ragnarok Online - Valkyrie_249
+  - first:
+      213: -1888220332170362397
+    second: PC Computer - Ragnarok Online - Valkyrie_250
+  - first:
+      213: 84429337097674932
+    second: PC Computer - Ragnarok Online - Valkyrie_251
+  - first:
+      213: -2114789062831078558
+    second: PC Computer - Ragnarok Online - Valkyrie_252
+  - first:
+      213: -3439241485427112869
+    second: PC Computer - Ragnarok Online - Valkyrie_253
+  - first:
+      213: -7721193560284801316
+    second: PC Computer - Ragnarok Online - Valkyrie_254
+  - first:
+      213: 2713097228817430404
+    second: "\uD788\uD3F4\uB9AC\uD14C_0"
+  - first:
+      213: -8682072568620717763
+    second: "\uD788\uD3F4\uB9AC\uD14C_1"
+  - first:
+      213: 6243523155576707156
+    second: "\uD788\uD3F4\uB9AC\uD14C_2"
+  - first:
+      213: -855920503451696213
+    second: "\uD788\uD3F4\uB9AC\uD14C_3"
+  - first:
+      213: -6519582419609082323
+    second: "\uD788\uD3F4\uB9AC\uD14C_4"
+  - first:
+      213: -7692127845443314024
+    second: "\uD788\uD3F4\uB9AC\uD14C_5"
+  - first:
+      213: 1500476329904283506
+    second: "\uD788\uD3F4\uB9AC\uD14C_6"
+  - first:
+      213: -9034715629646365992
+    second: "\uD788\uD3F4\uB9AC\uD14C_7"
+  - first:
+      213: 5384045647450399917
+    second: "\uD788\uD3F4\uB9AC\uD14C_8"
+  - first:
+      213: -8488807409805274853
+    second: "\uD788\uD3F4\uB9AC\uD14C_9"
+  - first:
+      213: 9121034964703220270
+    second: "\uD788\uD3F4\uB9AC\uD14C_10"
+  - first:
+      213: -3772263562321730815
+    second: "\uD788\uD3F4\uB9AC\uD14C_11"
+  - first:
+      213: 8291654513803731693
+    second: "\uD788\uD3F4\uB9AC\uD14C_12"
+  - first:
+      213: -8835020529218783441
+    second: "\uD788\uD3F4\uB9AC\uD14C_13"
+  - first:
+      213: 8899029523823337856
+    second: "\uD788\uD3F4\uB9AC\uD14C_14"
+  - first:
+      213: -7539037716238885343
+    second: "\uD788\uD3F4\uB9AC\uD14C_15"
+  - first:
+      213: -948086916714327834
+    second: "\uD788\uD3F4\uB9AC\uD14C_16"
+  - first:
+      213: -2546340089465126044
+    second: "\uD788\uD3F4\uB9AC\uD14C_17"
+  - first:
+      213: 1714169846688541754
+    second: "\uD788\uD3F4\uB9AC\uD14C_18"
+  - first:
+      213: 1053880747737349264
+    second: "\uD788\uD3F4\uB9AC\uD14C_19"
+  - first:
+      213: 8122534183844321776
+    second: "\uD788\uD3F4\uB9AC\uD14C_20"
+  - first:
+      213: 3557218022719287462
+    second: "\uD788\uD3F4\uB9AC\uD14C_21"
+  - first:
+      213: -6699130619590457891
+    second: "\uD788\uD3F4\uB9AC\uD14C_22"
+  - first:
+      213: -1618137392664454508
+    second: "\uD788\uD3F4\uB9AC\uD14C_23"
+  - first:
+      213: -5280557004160813809
+    second: "\uD788\uD3F4\uB9AC\uD14C_24"
+  - first:
+      213: 6163661238295191723
+    second: "\uD788\uD3F4\uB9AC\uD14C_25"
+  - first:
+      213: 1713842591243558511
+    second: "\uD788\uD3F4\uB9AC\uD14C_26"
+  - first:
+      213: 7605865136920703630
+    second: "\uD788\uD3F4\uB9AC\uD14C_27"
+  - first:
+      213: 9167798259369677830
+    second: "\uD788\uD3F4\uB9AC\uD14C_28"
+  - first:
+      213: 2853328389735880668
+    second: "\uD788\uD3F4\uB9AC\uD14C_29"
+  - first:
+      213: 8783632842278190099
+    second: "\uD788\uD3F4\uB9AC\uD14C_30"
+  - first:
+      213: -7932152863718660263
+    second: "\uD788\uD3F4\uB9AC\uD14C_31"
+  - first:
+      213: -7418041629369441971
+    second: "\uD788\uD3F4\uB9AC\uD14C_32"
+  - first:
+      213: -8007912939863969161
+    second: "\uD788\uD3F4\uB9AC\uD14C_33"
+  - first:
+      213: 946860111903500558
+    second: "\uD788\uD3F4\uB9AC\uD14C_34"
+  - first:
+      213: -2744316671397573285
+    second: "\uD788\uD3F4\uB9AC\uD14C_35"
+  - first:
+      213: -4802828339300400295
+    second: "\uD788\uD3F4\uB9AC\uD14C_36"
+  - first:
+      213: -1211600038975923623
+    second: "\uD788\uD3F4\uB9AC\uD14C_37"
+  - first:
+      213: -1541319551366115801
+    second: "\uD788\uD3F4\uB9AC\uD14C_38"
+  - first:
+      213: -3895211548262947085
+    second: "\uD788\uD3F4\uB9AC\uD14C_39"
+  - first:
+      213: 8358600964035724188
+    second: "\uD788\uD3F4\uB9AC\uD14C_40"
+  - first:
+      213: 6530956218486050332
+    second: "\uD788\uD3F4\uB9AC\uD14C_41"
+  - first:
+      213: 4122698171573615342
+    second: "\uD788\uD3F4\uB9AC\uD14C_42"
+  - first:
+      213: 5052713374768581073
+    second: "\uD788\uD3F4\uB9AC\uD14C_43"
+  - first:
+      213: 6284036174922442485
+    second: "\uD788\uD3F4\uB9AC\uD14C_44"
+  - first:
+      213: -1281206535834890926
+    second: "\uD788\uD3F4\uB9AC\uD14C_45"
+  - first:
+      213: -948487275683430432
+    second: "\uD788\uD3F4\uB9AC\uD14C_46"
+  - first:
+      213: 7084905678474361882
+    second: "\uD788\uD3F4\uB9AC\uD14C_47"
+  - first:
+      213: 2656983709515114588
+    second: "\uD788\uD3F4\uB9AC\uD14C_48"
+  - first:
+      213: 9063241307727366306
+    second: "\uD788\uD3F4\uB9AC\uD14C_49"
+  - first:
+      213: 5763007492258403382
+    second: "\uD788\uD3F4\uB9AC\uD14C_50"
+  - first:
+      213: 1405209154501657480
+    second: "\uD788\uD3F4\uB9AC\uD14C_51"
+  - first:
+      213: 5083333105516809305
+    second: "\uD788\uD3F4\uB9AC\uD14C_52"
+  - first:
+      213: -2558598399685365302
+    second: "\uD788\uD3F4\uB9AC\uD14C_53"
+  - first:
+      213: 6948353204415959369
+    second: "\uD788\uD3F4\uB9AC\uD14C_54"
+  - first:
+      213: -8112615257094788646
+    second: "\uD788\uD3F4\uB9AC\uD14C_55"
+  - first:
+      213: -4868073083640930730
+    second: "\uD788\uD3F4\uB9AC\uD14C_56"
+  - first:
+      213: 5214832859162749899
+    second: "\uD788\uD3F4\uB9AC\uD14C_57"
+  - first:
+      213: 3765693884360767888
+    second: "\uD788\uD3F4\uB9AC\uD14C_58"
+  - first:
+      213: 2988168689022638816
+    second: "\uD788\uD3F4\uB9AC\uD14C_59"
+  - first:
+      213: 9030255415052652616
+    second: "\uD788\uD3F4\uB9AC\uD14C_60"
+  - first:
+      213: -7676568468023547100
+    second: "\uD788\uD3F4\uB9AC\uD14C_61"
+  - first:
+      213: -3132186926157202410
+    second: "\uD788\uD3F4\uB9AC\uD14C_62"
+  - first:
+      213: 5926234299567114536
+    second: "\uD788\uD3F4\uB9AC\uD14C_63"
+  - first:
+      213: 7696202961558486991
+    second: "\uD788\uD3F4\uB9AC\uD14C_64"
+  - first:
+      213: -6421097173150293311
+    second: "\uD788\uD3F4\uB9AC\uD14C_65"
+  - first:
+      213: 3871158091997957919
+    second: "\uD788\uD3F4\uB9AC\uD14C_66"
+  - first:
+      213: 8784116559738572604
+    second: "\uD788\uD3F4\uB9AC\uD14C_67"
+  - first:
+      213: 5694044154338386874
+    second: "\uD788\uD3F4\uB9AC\uD14C_68"
+  - first:
+      213: 937593701298528122
+    second: "\uD788\uD3F4\uB9AC\uD14C_69"
+  - first:
+      213: -2586620520708942742
+    second: "\uD788\uD3F4\uB9AC\uD14C_70"
+  - first:
+      213: -2808205610400395253
+    second: "\uD788\uD3F4\uB9AC\uD14C_71"
+  - first:
+      213: -4447758525173061643
+    second: "\uD788\uD3F4\uB9AC\uD14C_72"
+  - first:
+      213: 3065715032715150744
+    second: "\uD788\uD3F4\uB9AC\uD14C_73"
+  - first:
+      213: -8871444243662994256
+    second: "\uD788\uD3F4\uB9AC\uD14C_74"
+  - first:
+      213: -1622958917757087437
+    second: "\uD788\uD3F4\uB9AC\uD14C_75"
+  - first:
+      213: -738253986655727625
+    second: "\uD788\uD3F4\uB9AC\uD14C_76"
+  - first:
+      213: -5541663617359024977
+    second: "\uD788\uD3F4\uB9AC\uD14C_77"
+  - first:
+      213: -6340393415627834559
+    second: "\uD788\uD3F4\uB9AC\uD14C_78"
+  - first:
+      213: -233907503309234832
+    second: "\uD788\uD3F4\uB9AC\uD14C_79"
+  - first:
+      213: -5323238501200782163
+    second: "\uD788\uD3F4\uB9AC\uD14C_80"
+  - first:
+      213: -4545918766487035602
+    second: "\uD788\uD3F4\uB9AC\uD14C_81"
+  - first:
+      213: 3047948203215318194
+    second: "\uD788\uD3F4\uB9AC\uD14C_82"
+  - first:
+      213: 6265856128909011876
+    second: "\uD788\uD3F4\uB9AC\uD14C_83"
+  - first:
+      213: 3082383088952752846
+    second: "\uD788\uD3F4\uB9AC\uD14C_84"
+  - first:
+      213: -2532728144400911369
+    second: "\uD788\uD3F4\uB9AC\uD14C_85"
+  - first:
+      213: 5910591906707768332
+    second: "\uD788\uD3F4\uB9AC\uD14C_86"
+  - first:
+      213: 971698917167694872
+    second: "\uD788\uD3F4\uB9AC\uD14C_87"
+  - first:
+      213: 5852798558769639548
+    second: "\uD788\uD3F4\uB9AC\uD14C_88"
+  - first:
+      213: 2359962600740575866
+    second: "\uD788\uD3F4\uB9AC\uD14C_89"
+  - first:
+      213: -7488071200412682456
+    second: "\uD788\uD3F4\uB9AC\uD14C_90"
+  - first:
+      213: -2731309662917979568
+    second: "\uD788\uD3F4\uB9AC\uD14C_91"
+  - first:
+      213: -6631320904605764576
+    second: "\uD788\uD3F4\uB9AC\uD14C_92"
+  - first:
+      213: 6599873323639969419
+    second: "\uD788\uD3F4\uB9AC\uD14C_93"
+  - first:
+      213: 1940475566764318666
+    second: "\uD788\uD3F4\uB9AC\uD14C_94"
+  - first:
+      213: 4060893204226689232
+    second: "\uD788\uD3F4\uB9AC\uD14C_95"
+  - first:
+      213: -4209404528308653216
+    second: "\uD788\uD3F4\uB9AC\uD14C_96"
+  - first:
+      213: -7263716916421320669
+    second: "\uD788\uD3F4\uB9AC\uD14C_97"
+  - first:
+      213: 2132867650258738603
+    second: "\uD788\uD3F4\uB9AC\uD14C_98"
+  - first:
+      213: 1373362878791955676
+    second: "\uD788\uD3F4\uB9AC\uD14C_99"
+  - first:
+      213: -1293924751112663654
+    second: "\uD788\uD3F4\uB9AC\uD14C_100"
+  - first:
+      213: 4111128723249077885
+    second: "\uD788\uD3F4\uB9AC\uD14C_101"
+  - first:
+      213: -8941222872812704573
+    second: "\uD788\uD3F4\uB9AC\uD14C_102"
+  - first:
+      213: 536080602083822511
+    second: "\uD788\uD3F4\uB9AC\uD14C_103"
+  - first:
+      213: -3845774736519195767
+    second: "\uD788\uD3F4\uB9AC\uD14C_104"
+  - first:
+      213: -3948184317416504964
+    second: "\uD788\uD3F4\uB9AC\uD14C_105"
+  - first:
+      213: 1221546304455626824
+    second: "\uD788\uD3F4\uB9AC\uD14C_106"
+  - first:
+      213: 2350348746993402870
+    second: "\uD788\uD3F4\uB9AC\uD14C_107"
+  - first:
+      213: -3020539510525158201
+    second: "\uD788\uD3F4\uB9AC\uD14C_108"
+  - first:
+      213: -770920505131646967
+    second: "\uD788\uD3F4\uB9AC\uD14C_109"
+  - first:
+      213: -1664720098980576643
+    second: "\uD788\uD3F4\uB9AC\uD14C_110"
+  - first:
+      213: -1398450649797522009
+    second: "\uD788\uD3F4\uB9AC\uD14C_111"
+  - first:
+      213: 6231614493203013719
+    second: "\uD788\uD3F4\uB9AC\uD14C_112"
+  - first:
+      213: -538563464270904209
+    second: "\uD788\uD3F4\uB9AC\uD14C_113"
+  - first:
+      213: -7810080962724823281
+    second: "\uD788\uD3F4\uB9AC\uD14C_114"
+  - first:
+      213: 7582766023825979270
+    second: "\uD788\uD3F4\uB9AC\uD14C_115"
+  - first:
+      213: -7912872657577265584
+    second: "\uD788\uD3F4\uB9AC\uD14C_116"
+  - first:
+      213: -2313290534427452372
+    second: "\uD788\uD3F4\uB9AC\uD14C_117"
+  - first:
+      213: 605402914963030394
+    second: "\uD788\uD3F4\uB9AC\uD14C_118"
+  - first:
+      213: 6102055259566052238
+    second: "\uD788\uD3F4\uB9AC\uD14C_119"
+  - first:
+      213: -5207769976704600570
+    second: "\uD788\uD3F4\uB9AC\uD14C_120"
+  - first:
+      213: -8044079058123916350
+    second: "\uD788\uD3F4\uB9AC\uD14C_121"
+  - first:
+      213: 4838549831475576667
+    second: "\uD788\uD3F4\uB9AC\uD14C_122"
+  - first:
+      213: 5328554510735798352
+    second: "\uD788\uD3F4\uB9AC\uD14C_123"
+  - first:
+      213: 5001116736183484503
+    second: "\uD788\uD3F4\uB9AC\uD14C_124"
+  - first:
+      213: 1412750165591160486
+    second: "\uD788\uD3F4\uB9AC\uD14C_125"
+  - first:
+      213: -5331410936889982797
+    second: "\uD788\uD3F4\uB9AC\uD14C_126"
+  - first:
+      213: 7738741118260609849
+    second: "\uD788\uD3F4\uB9AC\uD14C_127"
+  - first:
+      213: 5512798872257173444
+    second: "\uD788\uD3F4\uB9AC\uD14C_128"
+  - first:
+      213: 2804933882217816858
+    second: "\uD788\uD3F4\uB9AC\uD14C_129"
+  - first:
+      213: 2158227136896713521
+    second: "\uD788\uD3F4\uB9AC\uD14C_130"
+  - first:
+      213: -8522343388113909589
+    second: "\uD788\uD3F4\uB9AC\uD14C_131"
+  - first:
+      213: 1882317389020249001
+    second: "\uD788\uD3F4\uB9AC\uD14C_132"
+  - first:
+      213: 6785668606469093965
+    second: "\uD788\uD3F4\uB9AC\uD14C_133"
+  - first:
+      213: -7591085260536949746
+    second: "\uD788\uD3F4\uB9AC\uD14C_134"
+  - first:
+      213: 468389531660928691
+    second: "\uD788\uD3F4\uB9AC\uD14C_135"
+  - first:
+      213: -4717951651747143886
+    second: "\uD788\uD3F4\uB9AC\uD14C_136"
+  - first:
+      213: 1685293350266769394
+    second: "\uD788\uD3F4\uB9AC\uD14C_137"
+  - first:
+      213: 3143901178580631417
+    second: "\uD788\uD3F4\uB9AC\uD14C_138"
+  - first:
+      213: -5324916870360165874
+    second: "\uD788\uD3F4\uB9AC\uD14C_139"
+  - first:
+      213: -8962417657284726906
+    second: "\uD788\uD3F4\uB9AC\uD14C_140"
+  - first:
+      213: -2642337317743377123
+    second: "\uD788\uD3F4\uB9AC\uD14C_141"
+  - first:
+      213: 7411366916303747992
+    second: "\uD788\uD3F4\uB9AC\uD14C_142"
+  - first:
+      213: -9116110426633654234
+    second: "\uD788\uD3F4\uB9AC\uD14C_143"
+  - first:
+      213: -6858846556719480240
+    second: "\uD788\uD3F4\uB9AC\uD14C_144"
+  - first:
+      213: 2999012039055672338
+    second: "\uD788\uD3F4\uB9AC\uD14C_145"
+  - first:
+      213: 2537599609240932262
+    second: "\uD788\uD3F4\uB9AC\uD14C_146"
+  - first:
+      213: -8209463614054497443
+    second: "\uD788\uD3F4\uB9AC\uD14C_147"
+  - first:
+      213: -3412494906757592938
+    second: "\uD788\uD3F4\uB9AC\uD14C_148"
+  - first:
+      213: 3004881150565904086
+    second: "\uD788\uD3F4\uB9AC\uD14C_149"
+  - first:
+      213: -4436067061601066383
+    second: "\uD788\uD3F4\uB9AC\uD14C_150"
+  - first:
+      213: 6534265865979320268
+    second: "\uD788\uD3F4\uB9AC\uD14C_151"
+  - first:
+      213: -260368708678837428
+    second: "\uD788\uD3F4\uB9AC\uD14C_152"
+  - first:
+      213: 2875299938463425526
+    second: "\uD788\uD3F4\uB9AC\uD14C_153"
+  - first:
+      213: 5231359394551567447
+    second: "\uD788\uD3F4\uB9AC\uD14C_154"
+  - first:
+      213: -8730994607118086602
+    second: "\uD788\uD3F4\uB9AC\uD14C_155"
+  - first:
+      213: -5646257911210848122
+    second: "\uD788\uD3F4\uB9AC\uD14C_156"
+  - first:
+      213: 6010873468587207047
+    second: "\uD788\uD3F4\uB9AC\uD14C_157"
+  - first:
+      213: -5253411457235481078
+    second: "\uD788\uD3F4\uB9AC\uD14C_158"
+  - first:
+      213: -3101049630857298571
+    second: "\uD788\uD3F4\uB9AC\uD14C_159"
+  - first:
+      213: -7447391318414109473
+    second: "\uD788\uD3F4\uB9AC\uD14C_160"
+  - first:
+      213: 6033539023894808480
+    second: "\uD788\uD3F4\uB9AC\uD14C_161"
+  - first:
+      213: -4488950909099490881
+    second: "\uD788\uD3F4\uB9AC\uD14C_162"
+  - first:
+      213: 7226397667105049692
+    second: "\uD788\uD3F4\uB9AC\uD14C_163"
+  - first:
+      213: 2156298376673729012
+    second: "\uD788\uD3F4\uB9AC\uD14C_164"
+  - first:
+      213: 2337829567558099707
+    second: "\uD788\uD3F4\uB9AC\uD14C_165"
+  - first:
+      213: -329601380192170593
+    second: "\uD788\uD3F4\uB9AC\uD14C_166"
+  - first:
+      213: 4535874247106774641
+    second: "\uD788\uD3F4\uB9AC\uD14C_167"
+  - first:
+      213: -3983316933444830658
+    second: "\uD788\uD3F4\uB9AC\uD14C_168"
+  - first:
+      213: -7621173597968327259
+    second: "\uD788\uD3F4\uB9AC\uD14C_169"
+  - first:
+      213: -5259174617446943584
+    second: "\uD788\uD3F4\uB9AC\uD14C_170"
+  - first:
+      213: -5436838773319863901
+    second: "\uD788\uD3F4\uB9AC\uD14C_171"
+  - first:
+      213: -5644916631658214571
+    second: "\uD788\uD3F4\uB9AC\uD14C_172"
+  - first:
+      213: -8209826738258312260
+    second: "\uD788\uD3F4\uB9AC\uD14C_173"
+  - first:
+      213: -6526575518816233553
+    second: "\uD788\uD3F4\uB9AC\uD14C_174"
+  - first:
+      213: -4653923442184909334
+    second: "\uD788\uD3F4\uB9AC\uD14C_175"
+  - first:
+      213: -8221877847885498372
+    second: "\uD788\uD3F4\uB9AC\uD14C_176"
+  - first:
+      213: -148210690299077545
+    second: "\uD788\uD3F4\uB9AC\uD14C_177"
+  - first:
+      213: -8421083916226524305
+    second: "\uD788\uD3F4\uB9AC\uD14C_178"
+  - first:
+      213: -7158079729679207803
+    second: "\uD788\uD3F4\uB9AC\uD14C_179"
+  - first:
+      213: 1678083884441991216
+    second: "\uD788\uD3F4\uB9AC\uD14C_180"
+  - first:
+      213: 5341861136666597112
+    second: "\uD788\uD3F4\uB9AC\uD14C_181"
+  - first:
+      213: -4379478140314552561
+    second: "\uD788\uD3F4\uB9AC\uD14C_182"
+  - first:
+      213: 3767668256196911853
+    second: "\uD788\uD3F4\uB9AC\uD14C_183"
+  - first:
+      213: 7380821691801808376
+    second: "\uD788\uD3F4\uB9AC\uD14C_184"
+  - first:
+      213: 5464187070170678857
+    second: "\uD788\uD3F4\uB9AC\uD14C_185"
+  - first:
+      213: -8960158716433275874
+    second: "\uD788\uD3F4\uB9AC\uD14C_186"
+  - first:
+      213: -4396792555540010429
+    second: "\uD788\uD3F4\uB9AC\uD14C_187"
+  - first:
+      213: -1885104914194976704
+    second: "\uD788\uD3F4\uB9AC\uD14C_188"
+  - first:
+      213: -2004694527277948109
+    second: "\uD788\uD3F4\uB9AC\uD14C_189"
+  - first:
+      213: -1761975088179128990
+    second: "\uD788\uD3F4\uB9AC\uD14C_190"
+  - first:
+      213: -856732140599315528
+    second: "\uD788\uD3F4\uB9AC\uD14C_191"
+  - first:
+      213: -228472917012330253
+    second: "\uD788\uD3F4\uB9AC\uD14C_192"
+  - first:
+      213: -3306316158957935289
+    second: "\uD788\uD3F4\uB9AC\uD14C_193"
+  - first:
+      213: -5470152559423869194
+    second: "\uD788\uD3F4\uB9AC\uD14C_194"
+  - first:
+      213: -3493017883895838771
+    second: "\uD788\uD3F4\uB9AC\uD14C_195"
+  - first:
+      213: -7903142987483103845
+    second: "\uD788\uD3F4\uB9AC\uD14C_196"
+  - first:
+      213: 6296840685275186582
+    second: "\uD788\uD3F4\uB9AC\uD14C_197"
+  - first:
+      213: -4182121407886949783
+    second: "\uD788\uD3F4\uB9AC\uD14C_198"
+  - first:
+      213: -6762798786767232654
+    second: "\uD788\uD3F4\uB9AC\uD14C_199"
+  - first:
+      213: -1586517270165776028
+    second: "\uD788\uD3F4\uB9AC\uD14C_200"
+  - first:
+      213: -4118256806143706659
+    second: "\uD788\uD3F4\uB9AC\uD14C_201"
+  - first:
+      213: 8299498629866136150
+    second: "\uD788\uD3F4\uB9AC\uD14C_202"
+  - first:
+      213: 6007277790555228540
+    second: "\uD788\uD3F4\uB9AC\uD14C_203"
+  - first:
+      213: -6688738113543344636
+    second: "\uD788\uD3F4\uB9AC\uD14C_204"
+  - first:
+      213: -3286584449039537659
+    second: "\uD788\uD3F4\uB9AC\uD14C_205"
+  - first:
+      213: 7587570412468116804
+    second: "\uD788\uD3F4\uB9AC\uD14C_206"
+  - first:
+      213: -1052906310119253126
+    second: "\uD788\uD3F4\uB9AC\uD14C_207"
+  - first:
+      213: 5581003939794138861
+    second: "\uD788\uD3F4\uB9AC\uD14C_208"
+  - first:
+      213: -2274434316245344321
+    second: "\uD788\uD3F4\uB9AC\uD14C_209"
+  - first:
+      213: 1511740774555210667
+    second: "\uD788\uD3F4\uB9AC\uD14C_210"
+  - first:
+      213: 1128993395578995020
+    second: "\uD788\uD3F4\uB9AC\uD14C_211"
+  - first:
+      213: -5579741344523605670
+    second: "\uD788\uD3F4\uB9AC\uD14C_212"
+  - first:
+      213: -6329996693478969520
+    second: "\uD788\uD3F4\uB9AC\uD14C_213"
+  - first:
+      213: 6089389151066141051
+    second: "\uD788\uD3F4\uB9AC\uD14C_214"
+  - first:
+      213: 6618818569912941761
+    second: "\uD788\uD3F4\uB9AC\uD14C_215"
+  - first:
+      213: 2916427406604611568
+    second: "\uD788\uD3F4\uB9AC\uD14C_216"
+  - first:
+      213: 7864378768296458540
+    second: "\uD788\uD3F4\uB9AC\uD14C_217"
+  - first:
+      213: 5086361764730464216
+    second: "\uD788\uD3F4\uB9AC\uD14C_218"
+  - first:
+      213: 4729355810125154374
+    second: "\uD788\uD3F4\uB9AC\uD14C_219"
+  - first:
+      213: -6983154309954379808
+    second: "\uD788\uD3F4\uB9AC\uD14C_220"
+  - first:
+      213: 6962528203404880199
+    second: "\uD788\uD3F4\uB9AC\uD14C_221"
+  - first:
+      213: -8438071449577949043
+    second: "\uD788\uD3F4\uB9AC\uD14C_222"
+  - first:
+      213: -3352011593736194451
+    second: "\uD788\uD3F4\uB9AC\uD14C_223"
+  - first:
+      213: 723947852909048414
+    second: "\uD788\uD3F4\uB9AC\uD14C_224"
+  - first:
+      213: -2649434575628744205
+    second: "\uD788\uD3F4\uB9AC\uD14C_225"
+  - first:
+      213: 1564911373640864704
+    second: "\uD788\uD3F4\uB9AC\uD14C_226"
+  - first:
+      213: 7590479677529546708
+    second: "\uD788\uD3F4\uB9AC\uD14C_227"
+  - first:
+      213: 2048345750034697267
+    second: "\uD788\uD3F4\uB9AC\uD14C_228"
+  - first:
+      213: 9153365144078582758
+    second: "\uD788\uD3F4\uB9AC\uD14C_229"
+  - first:
+      213: 7433634694270783712
+    second: "\uD788\uD3F4\uB9AC\uD14C_230"
+  - first:
+      213: -903656115075855632
+    second: "\uD788\uD3F4\uB9AC\uD14C_231"
+  - first:
+      213: 8683032618439699047
+    second: "\uD788\uD3F4\uB9AC\uD14C_232"
+  - first:
+      213: 705711804891058853
+    second: "\uD788\uD3F4\uB9AC\uD14C_233"
+  - first:
+      213: -6858125613854776484
+    second: "\uD788\uD3F4\uB9AC\uD14C_234"
+  - first:
+      213: -4199749071057729620
+    second: "\uD788\uD3F4\uB9AC\uD14C_235"
+  - first:
+      213: -7482513820901239673
+    second: "\uD788\uD3F4\uB9AC\uD14C_236"
+  - first:
+      213: -7690418649957415883
+    second: "\uD788\uD3F4\uB9AC\uD14C_237"
+  - first:
+      213: 1017935126226719956
+    second: "\uD788\uD3F4\uB9AC\uD14C_238"
+  - first:
+      213: -968545595285048044
+    second: "\uD788\uD3F4\uB9AC\uD14C_239"
+  - first:
+      213: -8778294774543753267
+    second: "\uD788\uD3F4\uB9AC\uD14C_240"
+  - first:
+      213: -657317500941860277
+    second: "\uD788\uD3F4\uB9AC\uD14C_241"
+  - first:
+      213: 1864530030660877254
+    second: "\uD788\uD3F4\uB9AC\uD14C_242"
+  - first:
+      213: -5228263549418920896
+    second: "\uD788\uD3F4\uB9AC\uD14C_243"
+  - first:
+      213: -6853045908913345195
+    second: "\uD788\uD3F4\uB9AC\uD14C_244"
+  - first:
+      213: -1231541907723119535
+    second: "\uD788\uD3F4\uB9AC\uD14C_245"
+  - first:
+      213: -1389865608423046768
+    second: "\uD788\uD3F4\uB9AC\uD14C_246"
+  - first:
+      213: 1640971289848365156
+    second: "\uD788\uD3F4\uB9AC\uD14C_247"
+  - first:
+      213: -7134829431708662644
+    second: "\uD788\uD3F4\uB9AC\uD14C_248"
+  - first:
+      213: -6886216803620817689
+    second: "\uD788\uD3F4\uB9AC\uD14C_249"
+  - first:
+      213: -4910720155254741580
+    second: "\uD788\uD3F4\uB9AC\uD14C_250"
+  - first:
+      213: -3628242399489980517
+    second: "\uD788\uD3F4\uB9AC\uD14C_251"
+  - first:
+      213: -8648237014992615082
+    second: "\uD788\uD3F4\uB9AC\uD14C_252"
+  - first:
+      213: -6917636989334704050
+    second: "\uD788\uD3F4\uB9AC\uD14C_253"
+  - first:
+      213: 1968189286606113597
+    second: "\uD788\uD3F4\uB9AC\uD14C_254"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_0"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 870
+        width: 152
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5553741, y: 0.49259067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48772c41e8bd6a520800000000000000
+      internalID: 2713097228817430404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_1"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 878
+        width: 169
+        height: 133
+      alignment: 9
+      pivot: {x: 0.512451, y: 0.5158214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39e2399ff4138780800000000000000
+      internalID: -8682072568620717763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_2"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 885
+        width: 148
+        height: 119
+      alignment: 9
+      pivot: {x: 0.60663253, y: 0.57073003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458531bfa3375a650800000000000000
+      internalID: 6243523155576707156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_3"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 885
+        width: 155
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5610903, y: 0.5899241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c9c346d82f14f0800000000000000
+      internalID: -855920503451696213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_5"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 887
+        width: 153
+        height: 118
+      alignment: 9
+      pivot: {x: 0.58173084, y: 0.587543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed57daa72104590800000000000000
+      internalID: -7692127845443314024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_6"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 882
+        width: 168
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5258898, y: 0.5467229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f93dda543c2d410800000000000000
+      internalID: 1500476329904283506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_7"
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 196
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3248b00e3e9280800000000000000
+      internalID: -9034715629646365992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_14"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 552
+        width: 152
+        height: 141
+      alignment: 9
+      pivot: {x: 0.57929933, y: 0.50777096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081243de334bf7b70800000000000000
+      internalID: 8899029523823337856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_15"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 559
+        width: 158
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5431403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1f4ff325ff5790800000000000000
+      internalID: -7539037716238885343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_16"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 561
+        width: 103
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6489397, y: 0.5356341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01c01f8f7b7d2f0800000000000000
+      internalID: -948086916714327834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_17"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 197
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46348120e2599acd0800000000000000
+      internalID: -2546340089465126044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_18"
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 195
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6e8cb464f9c710800000000000000
+      internalID: 1714169846688541754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_19"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 541
+        width: 87
+        height: 156
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.44380617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf184d4f220ae00800000000000000
+      internalID: 1053880747737349264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_22"
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 535
+        width: 168
+        height: 157
+      alignment: 9
+      pivot: {x: 0.53261167, y: 0.43718472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54e5be138e703a0800000000000000
+      internalID: -6699130619590457891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_23"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 548
+        width: 157
+        height: 142
+      alignment: 9
+      pivot: {x: 0.53489697, y: 0.48456627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a55785d983b89e0800000000000000
+      internalID: -1618137392664454508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_24"
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 550
+        width: 156
+        height: 139
+      alignment: 9
+      pivot: {x: 0.53512025, y: 0.46846634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f053bced161b7b6b0800000000000000
+      internalID: -5280557004160813809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_26"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 546
+        width: 91
+        height: 147
+      alignment: 9
+      pivot: {x: 0.54816544, y: 0.48509124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed104a1cac8c710800000000000000
+      internalID: 1713842591243558511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_29"
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 370
+        width: 171
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79eb98d0f099720800000000000000
+      internalID: 2853328389735880668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_30"
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 388
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3279488bb5e970800000000000000
+      internalID: 8783632842278190099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_31"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 374
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a3fd2ff45be190800000000000000
+      internalID: -7932152863718660263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_32"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 373
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ef58c072dd0990800000000000000
+      internalID: -7418041629369441971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_37"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 374
+        width: 116
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9df21f288f2fe0800000000000000
+      internalID: -1211600038975923623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_38"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 366
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4577c8022c9ae0800000000000000
+      internalID: -1541319551366115801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_39"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 394
+        width: 148
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a9cc0cbd61f9c0800000000000000
+      internalID: -3895211548262947085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_40"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 374
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9346908a47bff370800000000000000
+      internalID: 8358600964035724188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_57"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2e652bdece5840800000000000000
+      internalID: 5214832859162749899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_69"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fda85f080030d00800000000000000
+      internalID: 937593701298528122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_75"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331590e86771a79e0800000000000000
+      internalID: -1622958917757087437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_76"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 225
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8e5b19e131c5f0800000000000000
+      internalID: -738253986655727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_221"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 79
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749269e038edf9060800000000000000
+      internalID: 6962528203404880199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_4"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 718
+        width: 143
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6663724, y: 0.44727308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a153e45ac585a0800000000000000
+      internalID: -6519582419609082323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_8"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 143
+        height: 126
+      alignment: 9
+      pivot: {x: 0.65027165, y: 0.4878172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e4ce8df8f7ba40800000000000000
+      internalID: 5384045647450399917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_9"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 717
+        width: 138
+        height: 131
+      alignment: 9
+      pivot: {x: 0.68352276, y: 0.47070733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115adbe2a2b13a80800000000000000
+      internalID: -8488807409805274853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_10"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 717
+        width: 141
+        height: 129
+      alignment: 9
+      pivot: {x: 0.67417485, y: 0.48215172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229d0f99fc649e70800000000000000
+      internalID: 9121034964703220270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_11"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 723
+        width: 139
+        height: 122
+      alignment: 9
+      pivot: {x: 0.69324523, y: 0.48112762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e9a0c64a36abc0800000000000000
+      internalID: -3772263562321730815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_12"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 717
+        width: 143
+        height: 131
+      alignment: 9
+      pivot: {x: 0.68247247, y: 0.47656575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2298769dfd11370800000000000000
+      internalID: 8291654513803731693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uD788\uD3F4\uB9AC\uD14C_13"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 920
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2771ac73a3b36580800000000000000
+      internalID: -8835020529218783441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc57bb1954219c54f90cc78608f5d01d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
