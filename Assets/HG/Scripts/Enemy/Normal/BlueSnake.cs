@@ -20,7 +20,7 @@ public class BlueSnake : Enemy,IOnDamage
     // Start is called before the first frame update
     void Start()
     {
-        attack = transform.Find("공격").GetComponent<EnemyAttack>();
+        attack = transform.GetComponentInChildren<EnemyAttack>();
         blood = EffectManager.instance.bloodEffect;
 
         target = GameObject.Find("Player").transform.Find("Heracles").gameObject;

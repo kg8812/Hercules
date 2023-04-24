@@ -16,7 +16,7 @@ public class Slime : EnemyAI,IOnDamage
     protected override void Start()
     {
         base.Start();
-        attack = transform.Find("공격").GetComponent<EnemyAttack>();
+        attack = transform.GetComponentInChildren<EnemyAttack>();
 
         blood = EffectManager.instance.bloodEffect;
         ani = GetComponent<Animator>();
